@@ -1,0 +1,45 @@
+{
+
+     "data": [
+        {
+            "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+            "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
+            "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+            "AdmobOpen": "ca-app-pub-3940256099942544/3419835294",
+            "FanInterstitial": "IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
+            "FanBanner": "IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
+            "FanNative": "IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
+            "MaxInterstitial": "",
+            "MaxBanner": "",
+            "MaxNative": "",
+            "AdsCount": "3",
+            "ActiveApp": "yes",
+            "Switch": "admob"
+        }
+    ],
+    "contacts": [
+
+        {
+            "name": "Dominic Purcell",
+            "image": "https://www.themoviedb.org/t/p/w276_and_h350_face/30giDZ53c8f72pPbXCLK9xMSAnw.jpg",
+            "phone": "987-654-3210",
+            "voice": "jane_voice.mp3",
+            "video": "jane_video.mp4"
+        },
+        {
+            "name": "Robert Knepper",
+            "image": "https://www.themoviedb.org/t/p/w276_and_h350_face/w40AttR4OPQvjYyTVanq5Rm5iOb.jpg",
+            "phone": "555-555-5555",
+            "voice": "alice_voice.mp3",
+            "video": "alice_video.mp4"
+        },
+        {
+            "name": "Sarah Wayne Callies",
+            "image": "https://www.themoviedb.org/t/p/w276_and_h350_face/8XY5IzV1sK2exuyYL5VULQnBERG.jpg",
+            "phone": "444-444-4444",
+            "voice": "bob_voice.mp3",
+            "video": "bob_video.mp4"
+        }
+    ]
+   
+}
