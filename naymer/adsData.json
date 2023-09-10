@@ -40,20 +40,7 @@
             "voice": "alice_voice.mp3",
             "video": "https://proreskin9.github.io/server/naymer/v3.mp4"
         },
-                 {
-            "name": "neymar",
-            "image": "https://proreskin9.github.io/server/naymer/ph4.png,
-            "phone": "555-555-5555",
-            "voice": "alice_voice.mp3",
-            "video": "https://proreskin9.github.io/server/naymer/v4.mp4"
-        },
-        {
-            "name": "neymarr",
-            "image": "https://proreskin9.github.io/server/naymer/ph5.png",
-            "phone": "555-555-5555",
-            "voice": "alice_voice.mp3",
-            "video": "https://proreskin9.github.io/server/naymer/v5.mp4"
-        },
+
         {
             "name": "neymar",
             "image": "https://proreskin9.github.io/server/naymer/ph6.jpg",
