@@ -19,149 +19,149 @@
   "contacts": [
         {
             "name": "neymar",
-            "image": "https://proreskin9.github.io/server/cr/ph1.jpg",
+            "image": "https://proreskin9.github.io/server/masha/ph1.jpg",
             "phone": "987-654-3210",
-            "voice": "jane_voice.mp3",
-            "video": "https://proreskin9.github.io/server/cr/v1.mp4"
+            "voice": "https://proreskin9.github.io/server/masha/masha.mp3",
+            "video": "https://proreskin9.github.io/server/masha/v1.mp4"
         },
                  {
             "name": "neymar paris",
-            "image": "https://proreskin9.github.io/server/cr/ph2.jpg",
+            "image": "https://proreskin9.github.io/server/masha/ph2.jpg",
             "phone": "185-555-5874",
-            "voice": "alice_voice.mp3",
-            "video": "https://proreskin9.github.io/server/cr/v2.mp4"
+            "voice": "https://proreskin9.github.io/server/masha/masha2.mp3",
+            "video": "https://proreskin9.github.io/server/masha/v2.mp4"
         },
                  {
             "name": "neymar paris",
-            "image": "https://proreskin9.github.io/server/cr/ph3.jpg",
+            "image": "https://proreskin9.github.io/server/masha/ph3.jpg",
             "phone": "546-555-5875",
-            "voice": "alice_voice.mp3",
-            "video": "https://proreskin9.github.io/server/cr/v3.mp4"
+            "voice": "https://proreskin9.github.io/server/masha/masha3.mp3",
+            "video": "https://proreskin9.github.io/server/masha/v3.mp4"
         },
          
         {
             "name": "neymar",
-            "image": "https://proreskin9.github.io/server/cr/ph44.jpg",
+            "image": "https://proreskin9.github.io/server/masha/ph4.jpg",
             "phone": "126-654-2957",
-            "voice": "jane_voice.mp3",
-            "video": "https://proreskin9.github.io/server/cr/v4.mp4"
+            "voice": "https://proreskin9.github.io/server/masha/masha.mp3",
+            "video": "https://proreskin9.github.io/server/masha/v4.mp4"
         },
          
         {
             "name": "neymar",
-            "image": "https://proreskin9.github.io/server/cr/ph55.jpg",
+            "image": "https://proreskin9.github.io/server/masha/ph5.jpg",
             "phone": "183-654-9834",
-            "voice": "jane_voice.mp3",
-            "video": "https://proreskin9.github.io/server/cr/v5.mp4"
+            "voice": "https://proreskin9.github.io/server/masha/masha.mp3",
+            "video": "https://proreskin9.github.io/server/masha/v5.mp4"
         },
          
         {
             "name": "neymar",
-            "image": "https://proreskin9.github.io/server/cr/ph6.jpg",
+            "image": "https://proreskin9.github.io/server/masha/ph6.jpg",
             "phone": "201-654-3192",
-            "voice": "jane_voice.mp3",
-            "video": "https://proreskin9.github.io/server/cr/v6.mp4"
+            "voice": "https://proreskin9.github.io/server/masha/masha3.mp3",
+            "video": "https://proreskin9.github.io/server/masha/v6.mp4"
         },
          
         {
             "name": "neymar",
-            "image": "https://proreskin9.github.io/server/cr/ph7.jpg",
+            "image": "https://proreskin9.github.io/server/masha/ph7.jpg",
             "phone": "239-654-3148",
-            "voice": "jane_voice.mp3",
-            "video": "https://proreskin9.github.io/server/cr/v7.mp4"
+            "voice": "https://proreskin9.github.io/server/masha/masha2.mp3",
+            "video": "https://proreskin9.github.io/server/masha/v7.mp4"
         },
          
         {
             "name": "neymar",
-            "image": "https://proreskin9.github.io/server/cr/ph8.jpg",
+            "image": "https://proreskin9.github.io/server/masha/ph8.jpg",
             "phone": "127-654-3910",
-            "voice": "jane_voice.mp3",
-            "video": "https://proreskin9.github.io/server/cr/v8.mp4"
+            "voice": "https://proreskin9.github.io/server/masha/masha3.mp3",
+            "video": "https://proreskin9.github.io/server/masha/v8.mp4"
         },
          
         {
             "name": "neymar",
-            "image": "https://proreskin9.github.io/server/cr/ph9.jpg",
+            "image": "https://proreskin9.github.io/server/masha/ph9.jpg",
             "phone": "183-654-9510",
-            "voice": "jane_voice.mp3",
-            "video": "https://proreskin9.github.io/server/cr/v9.mp4"
+            "voice": "https://proreskin9.github.io/server/masha/masha3.mp3",
+            "video": "https://proreskin9.github.io/server/masha/v9.mp4"
         },
          
         {
             "name": "neymar",
-            "image": "https://proreskin9.github.io/server/cr/ph10.jpg",
+            "image": "https://proreskin9.github.io/server/masha/ph10.jpg",
             "phone": "263-654-5917",
-            "voice": "jane_voice.mp3",
-            "video": "https://proreskin9.github.io/server/cr/v10.mp4"
+            "voice": "https://proreskin9.github.io/server/masha/masha.mp3",
+            "video": "https://proreskin9.github.io/server/masha/v10.mp4"
         },
          
         {
             "name": "neymar",
-            "image": "https://proreskin9.github.io/server/cr/ph11.jpg",
+            "image": "https://proreskin9.github.io/server/masha/ph11.jpg",
             "phone": "128-654-4810",
-            "voice": "jane_voice.mp3",
-            "video": "https://proreskin9.github.io/server/cr/v11.mp4"
+            "voice": "https://proreskin9.github.io/server/masha/masha2.mp3",
+            "video": "https://proreskin9.github.io/server/masha/v11.mp4"
         },
          
         {
             "name": "neymar",
-            "image": "https://proreskin9.github.io/server/cr/ph12.jpg",
+            "image": "https://proreskin9.github.io/server/masha/ph12.jpg",
             "phone": "912-654-3927",
-            "voice": "jane_voice.mp3",
-            "video": "https://proreskin9.github.io/server/cr/v12.mp4"
+            "voice": "https://proreskin9.github.io/server/masha/masha3.mp3",
+            "video": "https://proreskin9.github.io/server/masha/v12.mp4"
         },
          
         {
             "name": "neymar",
-            "image": "https://proreskin9.github.io/server/cr/ph13.jpg",
+            "image": "https://proreskin9.github.io/server/masha/ph13.jpg",
             "phone": "182-654-3294",
-            "voice": "jane_voice.mp3",
-            "video": "https://proreskin9.github.io/server/cr/v13.mp4"
+            "voice": "https://proreskin9.github.io/server/masha/masha3.mp3",
+            "video": "https://proreskin9.github.io/server/masha/v13.mp4"
         },
          
         {
             "name": "neymar",
-            "image": "https://proreskin9.github.io/server/cr/ph14.jpg",
+            "image": "https://proreskin9.github.io/server/masha/ph14.jpg",
             "phone": "120-654-3299",
-            "voice": "jane_voice.mp3",
-            "video": "https://proreskin9.github.io/server/cr/v14.mp4"
+            "voice": "https://proreskin9.github.io/server/masha/masha2.mp3",
+            "video": "https://proreskin9.github.io/server/masha/v14.mp4"
         },
          
         {
             "name": "neymar",
-            "image": "https://proreskin9.github.io/server/cr/ph15.jpg",
+            "image": "https://proreskin9.github.io/server/masha/ph15.jpg",
             "phone": "917-654-0710",
-            "voice": "jane_voice.mp3",
-            "video": "https://proreskin9.github.io/server/cr/v15.mp4"
+            "voice": "https://proreskin9.github.io/server/masha/masha.mp3",
+            "video": "https://proreskin9.github.io/server/masha/v15.mp4"
         },
          
         {
             "name": "neymar",
-            "image": "https://proreskin9.github.io/server/cr/ph16.jpg",
+            "image": "https://proreskin9.github.io/server/masha/ph16.jpg",
             "phone": "959-654-3980",
-            "voice": "jane_voice.mp3",
-            "video": "https://proreskin9.github.io/server/cr/v16.mp4"
+            "voice": "https://proreskin9.github.io/server/masha/masha2.mp3",
+            "video": "https://proreskin9.github.io/server/masha/v16.mp4"
         },
         {
             "name": "neymar",
-            "image": "https://proreskin9.github.io/server/cr/ph18.jpg",
+            "image": "https://proreskin9.github.io/server/masha/ph18.jpg",
             "phone": "987-654-3579",
-            "voice": "jane_voice.mp3",
-            "video": "https://proreskin9.github.io/server/cr/v18.mp4"
+            "voice": "https://proreskin9.github.io/server/masha/masha3.mp3",
+            "video": "https://proreskin9.github.io/server/masha/v18.mp4"
         },
         {
             "name": "neymar",
-            "image": "https://proreskin9.github.io/server/cr/ph20.jpg",
+            "image": "https://proreskin9.github.io/server/masha/ph20.jpg",
             "phone": "987-654-3579",
-            "voice": "jane_voice.mp3",
-            "video": "https://proreskin9.github.io/server/cr/v20.mp4"
+            "voice": "https://proreskin9.github.io/server/masha/masha2.mp3",
+            "video": "https://proreskin9.github.io/server/masha/v20.mp4"
         },
         {
             "name": "neymar",
-            "image": "https://proreskin9.github.io/server/cr/ph19.jpg",
+            "image": "https://proreskin9.github.io/server/masha/ph19.jpg",
             "phone": "444-444-4444",
-            "voice": "bob_voice.mp3",
-            "video": "https://proreskin9.github.io/server/cr/v19.mp4"
+            "voice": "https://proreskin9.github.io/server/masha/masha.mp3",
+            "video": "https://proreskin9.github.io/server/masha/v19.mp4"
         }
   ]
 }
