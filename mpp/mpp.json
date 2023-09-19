@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+      "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
+      "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+      "AdmobOpen": "ca-app-pub-3940256099942544/3419835294",
+      "FanInterstitial": "IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
+      "FanBanner": "IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
+      "FanNative": "IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
+      "MaxInterstitial": "",
+      "MaxBanner": "",
+      "MaxNative": "",
+      "AdsCount": "3",
+      "ActiveApp": "yes",
+      "Switch": "fan"
+    }
+  ],
+  "contacts": [
+        {
+            "name": "Kylian Mbappe",
+            "image": "https://proreskin9.github.io/server/mpp/ph1.jpg",
+            "phone": "987-654-3210",
+            "voice": "jane_voice.mp3",
+            "video": "https://proreskin9.github.io/server/mpp/v1.mp4"
+        },
+        {
+            "name": "Mbappe",
+            "image": "https://proreskin9.github.io/server/mpp/ph2.jpg",
+            "phone": "185-555-5874",
+            "voice": "alice_voice.mp3",
+            "video": "https://proreskin9.github.io/server/mpp/v2.mp4"
+        },
+        {
+            "name": "Kylian Mbappe",
+            "image": "https://proreskin9.github.io/server/mpp/ph3.jpg",
+            "phone": "546-555-5875",
+            "voice": "alice_voice.mp3",
+            "video": "https://proreskin9.github.io/server/mpp/v3.mp4"
+        },
+        {
+            "name": "Mbappe",
+            "image": "https://proreskin9.github.io/server/mpp/ph4.jpg",
+            "phone": "444-444-4444",
+            "voice": "bob_voice.mp3",
+            "video": "https://proreskin9.github.io/server/mpp/v4.mp4"
+        }
+  ]
+}
