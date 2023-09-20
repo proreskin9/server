@@ -19,24 +19,24 @@
   "contacts": [
         {
             "name": "bono",
-            "image": "https://proreskin9.github.io/server/masha/ph1.jpg",
+            "image": "https://proreskin9.github.io/server/cele/ph1.jpg",
             "phone": "987-654-3210",
             "voice": "jane_voice.mp3",
-            "video": "https://proreskin9.github.io/server/masha/v1.mp4"
+            "video": "https://proreskin9.github.io/server/cele/v1.mp4"
         },
                  {
             "name": "ronaldo",
-            "image": "https://proreskin9.github.io/server/masha/ph2.jpg",
+            "image": "https://proreskin9.github.io/server/cele/ph2.jpg",
             "phone": "185-555-5874",
             "voice": "alice_voice.mp3",
-            "video": "https://proreskin9.github.io/server/masha/v2.mp4"
+            "video": "https://proreskin9.github.io/server/cele/v2.mp4"
         },
         {
             "name": "messi",
-            "image": "https://proreskin9.github.io/server/masha/ph3.jpg",
+            "image": "https://proreskin9.github.io/server/cele/ph3.jpg",
             "phone": "444-444-4444",
             "voice": "bob_voice.mp3",
-            "video": "https://proreskin9.github.io/server/masha/v3.mp4"
+            "video": "https://proreskin9.github.io/server/cele/v3.mp4"
         }
   ]
 }
