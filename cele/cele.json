@@ -5,15 +5,15 @@
       "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
       "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
       "AdmobOpen": "ca-app-pub-3940256099942544/3419835294",
-      "FanInterstitial": "IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
-      "FanBanner": "IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
-      "FanNative": "IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
+      "FanInterstitial": "215442734610996_215446017944001",
+      "FanBanner": "215442734610996_215445974610672",
+      "FanNative": "215442734610996_247893534699249",
       "MaxInterstitial": "bac3e89575ba1585",
       "MaxBanner": "bac3e89575ba1585",
       "MaxNative": "bac3e89575ba1585",
       "AdsCount": "3",
       "ActiveApp": "yes",
-      "Switch": "max"
+      "Switch": "fan"
     }
   ],
   "contacts": [
