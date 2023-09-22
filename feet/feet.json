@@ -5,9 +5,9 @@
       "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
       "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
       "AdmobOpen": "ca-app-pub-3940256099942544/3419835294",
-      "FanInterstitial": "IMG_16_9_APP_INSTALL#645522883286327_6507611360935",
-      "FanBanner": "IMG_16_9_APP_INSTALL#366986694895415_3669868615665",
-      "FanNative": "IMG_16_9_APP_INSTALL#645522883286327_6516204993232",
+      "FanInterstitial": "IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
+      "FanBanner": "IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
+      "FanNative": "IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
       "MaxInterstitial": "",
       "MaxBanner": "",
       "MaxNative": "",
@@ -18,57 +18,32 @@
   ],
   "contacts": [
         {
-            "name": "feet",
+            "name": "Kylian Mbappe",
             "image": "https://proreskin9.github.io/server/feet/f1.jpg",
-            "fone": "987-654-3210",
-            "voice": "https://proreskin9.github.io/server/feet/f.mp3",
+            "phone": "987-654-3210",
+            "voice": "jane_voice.mp3",
             "video": "https://proreskin9.github.io/server/feet/v1.mp4"
         },
-                 {
-            "name": "top feet",
+        {
+            "name": "Mbappe",
             "image": "https://proreskin9.github.io/server/feet/f2.jpg",
-            "fone": "185-555-5874",
-            "voice": "https://proreskin9.github.io/server/feet/f.mp3",
+            "phone": "185-555-5874",
+            "voice": "alice_voice.mp3",
             "video": "https://proreskin9.github.io/server/feet/v2.mp4"
         },
-                 {
-            "name": "beauty feet",
+        {
+            "name": "Kylian Mbappe",
             "image": "https://proreskin9.github.io/server/feet/f3.jpg",
-            "fone": "546-555-5875",
-            "voice": "https://proreskin9.github.io/server/feet/f2.mp3",
+            "phone": "546-555-5875",
+            "voice": "alice_voice.mp3",
             "video": "https://proreskin9.github.io/server/feet/v3.mp4"
         },
-         
         {
-            "name": "feet",
-            "image": "https://proreskin9.github.io/server/feet/f44.jpg",
-            "fone": "126-654-2957",
-            "voice": "https://proreskin9.github.io/server/feet/f2.mp3",
+            "name": "Mbappe",
+            "image": "https://proreskin9.github.io/server/feet/f4.jpg",
+            "phone": "444-444-4444",
+            "voice": "bob_voice.mp3",
             "video": "https://proreskin9.github.io/server/feet/v4.mp4"
-        },         
-        {
-            "name": "feet maroc",
-            "image": "https://proreskin9.github.io/server/feet/f55.jpg",
-            "fone": "183-654-9834",
-            "voice": "https://proreskin9.github.io/server/feet/f.mp3",
-            "video": "https://proreskin9.github.io/server/feet/v5.mp4"
-        },
-         
-        {
-            "name": "feet top",
-            "image": "https://proreskin9.github.io/server/feet/f6.jpg",
-            "fone": "201-654-3192",
-            "voice": "https://proreskin9.github.io/server/feet/f2.mp3",
-            "video": "https://proreskin9.github.io/server/feet/v6.mp4"
-        },
-         
-
-        {
-            "name": "feet top",
-            "image": "https://proreskin9.github.io/server/feet/f7.jpg",
-            "fone": "444-444-4444",
-            "voice": "https://proreskin9.github.io/server/feet/f.mp3",
-            "video": "https://proreskin9.github.io/server/feet/v7.mp4"
         }
   ]
 }
