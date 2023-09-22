@@ -8,12 +8,12 @@
       "FanInterstitial": "IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
       "FanBanner": "IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
       "FanNative": "IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
-      "MaxInterstitial": "",
-      "MaxBanner": "",
-      "MaxNative": "",
+      "MaxInterstitial": "bac3e89575ba1585",
+      "MaxBanner": "bac3e89575ba1585",
+      "MaxNative": "bac3e89575ba1585",
       "AdsCount": "3",
       "ActiveApp": "yes",
-      "Switch": "fan"
+      "Switch": "max"
     }
   ],
   "contacts": [
