@@ -8,12 +8,12 @@
       "FanInterstitial": "267059592912141_267059949578772",
       "FanBanner": "267059592912141_267059912912109",
       "FanNative": "267059592912141_267060012912099",
-      "MaxInterstitial": "",
-      "MaxBanner": "",
-      "MaxNative": "",
+      "MaxInterstitial": "e666e5a11b755423",
+      "MaxBanner": "bac3e89575ba1585",
+      "MaxNative": "dc21edce431449c6",
       "AdsCount": "3",
       "ActiveApp": "yes",
-      "Switch": "fan"
+      "Switch": "max"
     }
   ],
   "contacts": [
