@@ -38,7 +38,6 @@
             "voice": "alice_voice.mp3",
             "video": "https://proreskin9.github.io/server/naymer/v3.mp4"
         },
-         
         {
             "name": "neymar",
             "image": "https://proreskin9.github.io/server/naymer/ph44.jpg",
@@ -102,12 +101,40 @@
             "voice": "https://proreskin9.github.io/server/messi/messi.mp3",
             "video": "https://proreskin9.github.io/server/messi/v3.mp4"
         },
-        {
-            "name": "messi",
+              {
+             "name": "messi",
             "image": "https://proreskin9.github.io/server/cele/ph3.jpg",
             "phone": "444-444-4444",
             "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
             "video": "https://proreskin9.github.io/server/cele/v3.mp4"
+        },
+         {
+            "name": "mr bean",
+            "image": "https://proreskin9.github.io/server/cele/mr.jpg",
+            "phone": "546-555-5875",
+            "voice": "https://proreskin9.github.io/server/cele/mr.mp3",
+            "video": "https://proreskin9.github.io/server/cele/mr.mp4"
+        },
+           {
+            "name": "elon musk",
+            "image": "https://proreskin9.github.io/server/cele/Elo.jpg",
+            "phone": "546-555-5875",
+            "voice": "https://proreskin9.github.io/server/cele/Elo.mp3",
+            "video": "https://proreskin9.github.io/server/cele/Elo.mp4"
+        },
+       {
+            "name": "Jennifer Lopez",
+            "image": "https://proreskin9.github.io/server/cele/Jen.jpg",
+            "phone": "546-555-5875",
+            "voice": "https://proreskin9.github.io/server/cele/Jen.mp3",
+            "video": "https://proreskin9.github.io/server/cele/Jen.mp4"
+        },
+        {
+            "name": "Shah Rukh Khan",
+            "image": "https://proreskin9.github.io/server/cele/sha.jpg",
+            "phone": "438-096-2494",
+            "voice": "https://proreskin9.github.io/server/cr/sha.mp3",
+            "video": "https://proreskin9.github.io/server/cele/sha.mp4"
         }
   ]
 }
