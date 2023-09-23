@@ -5,9 +5,9 @@
       "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
       "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
       "AdmobOpen": "ca-app-pub-3940256099942544/3419835294",
-      "FanInterstitial": "IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
-      "FanBanner": "IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
-      "FanNative": "IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
+      "FanInterstitial": "1748177819021726_1748178162355025",
+      "FanBanner": "1748177819021726_1748178072355034",
+      "FanNative": "1748177819021726_1748178325688342",
       "MaxInterstitial": "",
       "MaxBanner": "",
       "MaxNative": "",
@@ -21,56 +21,56 @@
             "name": "feet",
             "image": "https://proreskin9.github.io/server/feet/f1.jpg",
             "phone": "987-654-3210",
-            "voice": "jane_voice.mp3",
+            "voice": "https://proreskin9.github.io/server/feet/f.mp3",
             "video": "https://proreskin9.github.io/server/feet/v1.mp4"
         },
             {
             "name": "feet car",
             "image": "https://proreskin9.github.io/server/feet/f8.jpg",
             "phone": "185-555-5874",
-            "voice": "alice_voice.mp3",
+            "voice": "https://proreskin9.github.io/server/feet/f.mp3",
             "video": "https://proreskin9.github.io/server/feet/v8.mp4"
         },
         {
             "name": "feet top",
             "image": "https://proreskin9.github.io/server/feet/f2.jpg",
             "phone": "185-555-5874",
-            "voice": "alice_voice.mp3",
+            "voice": "https://proreskin9.github.io/server/feet/f.mp3",
             "video": "https://proreskin9.github.io/server/feet/v2.mp4"
         },
         {
             "name": "good feet",
             "image": "https://proreskin9.github.io/server/feet/f3.jpg",
             "phone": "546-555-5875",
-            "voice": "alice_voice.mp3",
+            "voice": "https://proreskin9.github.io/server/feet/f.mp3",
             "video": "https://proreskin9.github.io/server/feet/v3.mp4"
         },
         {
             "name": "nice feet",
             "image": "https://proreskin9.github.io/server/feet/f4.jpg",
             "phone": "546-555-5875",
-            "voice": "alice_voice.mp3",
+            "voice": "https://proreskin9.github.io/server/feet/f.mp3",
             "video": "https://proreskin9.github.io/server/feet/v4.mp4"
         },
             {
             "name": "top feet",
             "image": "https://proreskin9.github.io/server/feet/f5.jpg",
             "phone": "546-555-5875",
-            "voice": "alice_voice.mp3",
+            "voice": "https://proreskin9.github.io/server/feet/f.mp3",
             "video": "https://proreskin9.github.io/server/feet/v5.mp4"
         },
             {
             "name": "feet",
             "image": "https://proreskin9.github.io/server/feet/f6.jpg",
             "phone": "546-555-5875",
-            "voice": "alice_voice.mp3",
+            "voice": "https://proreskin9.github.io/server/feet/f.mp3",
             "video": "https://proreskin9.github.io/server/feet/v6.mp4"
         },
         {
             "name": "feet",
             "image": "https://proreskin9.github.io/server/feet/f7.jpg",
-            "phone": "444-444-4444",
-            "voice": "bob_voice.mp3",
+            "phone": "684-974-4987",
+            "voice": "https://proreskin9.github.io/server/feet/f.mp3",
             "video": "https://proreskin9.github.io/server/feet/v7.mp4"
         }
   ]
