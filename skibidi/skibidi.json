@@ -1,0 +1,513 @@
+{
+  "data": [
+    {
+      "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+      "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
+      "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+      "AdmobOpen": "ca-app-pub-3940256099942544/3419835294",
+      "FanInterstitial": "IMG_16_9_APP_INSTALL#645522883286327_65076113095835",
+      "FanBanner": "IMG_16_9_APP_INSTALL#366986694895415_36698686156065",
+      "FanNative": "IMG_16_9_APP_INSTALL#645522883286327_65162049934232",
+      "MaxInterstitial": "",
+      "MaxBanner": "",
+      "MaxNative": "",
+      "AdsCount": "3",
+      "ActiveApp": "yes",
+      "Switch": "fan"
+    }
+  ],
+  "contacts": [
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph1.jpg",
+            "phone": "987-654-3210",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v1.mp4"
+        },
+                 {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph2.jpg",
+            "phone": "185-555-5874",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v2.mp4"
+        },
+                 {
+            "name": "titan tvman",
+            "image": "https://proreskin9.github.io/server/skibidi/ph3.jpg",
+            "phone": "546-555-5875",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v3.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph4.jpg",
+            "phone": "126-654-2957",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v4.mp4"
+        },
+         
+        {
+            "name": "titan tvman",
+            "image": "https://proreskin9.github.io/server/skibidi/ph5.jpg",
+            "phone": "183-654-9834",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v5.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph6.jpg",
+            "phone": "201-654-3192",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v6.mp4"
+        },
+         
+        {
+            "name": "tvman",
+            "image": "https://proreskin9.github.io/server/skibidi/ph7.jpg",
+            "phone": "239-654-3148",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v7.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph8.jpg",
+            "phone": "127-654-3910",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v8.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph9.jpg",
+            "phone": "183-654-9510",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v9.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph10.jpg",
+            "phone": "263-654-5917",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v10.mp4"
+        },       
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph11.jpg",
+            "phone": "128-654-4810",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v11.mp4"
+        },
+         
+        {
+            "name": "tvman",
+            "image": "https://proreskin9.github.io/server/skibidi/ph12.jpg",
+            "phone": "912-654-3927",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v12.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph13.jpg",
+            "phone": "182-654-3294",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v13.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph14.jpg",
+            "phone": "120-654-3299",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v14.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph15.jpg",
+            "phone": "917-654-0710",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v15.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph16.jpg",
+            "phone": "959-654-3980",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v16.mp4"
+        },
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph18.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v18.mp4"
+        },
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph19.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v19.mp4"
+        },
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph20.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v20.mp4"
+        },
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph21.jpg",
+            "phone": "128-654-4810",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v21.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph22.jpg",
+            "phone": "912-654-3927",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v22.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph23.jpg",
+            "phone": "182-654-3294",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v23.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph24.jpg",
+            "phone": "120-654-3299",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v24.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph25.jpg",
+            "phone": "917-654-0710",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v25.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph26.jpg",
+            "phone": "959-654-3980",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v26.mp4"
+        },
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph28.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v28.mp4"
+        },
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph29.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v29.mp4"
+        },
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph30.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v30.mp4"
+        },
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph31.jpg",
+            "phone": "128-654-4810",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v31.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph32.jpg",
+            "phone": "912-654-3927",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v32.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph33.jpg",
+            "phone": "182-654-3294",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v33.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph34.jpg",
+            "phone": "120-654-3299",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v34.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph35.jpg",
+            "phone": "917-654-0710",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v35.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph36.jpg",
+            "phone": "959-654-3980",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v36.mp4"
+        },
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph38.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v38.mp4"
+        },
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph39.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v39.mp4"
+        },
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph40.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v40.mp4"
+        },
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph41.jpg",
+            "phone": "128-654-4810",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v41.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph42.jpg",
+            "phone": "912-654-3927",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v42.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph43.jpg",
+            "phone": "182-654-3294",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v43.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph44.jpg",
+            "phone": "120-654-3299",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v44.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph45.jpg",
+            "phone": "917-654-0710",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v45.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph46.jpg",
+            "phone": "959-654-3980",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v46.mp4"
+        },
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph48.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v48.mp4"
+        },
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph49.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v49.mp4"
+        },
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph50.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v50.mp4"
+        },
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph51.jpg",
+            "phone": "128-654-4810",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v51.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph52.jpg",
+            "phone": "912-654-3927",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v52.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph53.jpg",
+            "phone": "182-654-3294",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v53.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph54.jpg",
+            "phone": "120-654-3299",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v54.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph55.jpg",
+            "phone": "917-654-0710",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v55.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph56.jpg",
+            "phone": "959-654-3980",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v56.mp4"
+        },
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph58.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v58.mp4"
+        },
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph59.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v59.mp4"
+        },
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph60.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v60.mp4"
+        },
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph61.jpg",
+            "phone": "128-654-4810",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v61.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph62.jpg",
+            "phone": "912-654-3927",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v62.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph63.jpg",
+            "phone": "182-654-3294",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v63.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph64.jpg",
+            "phone": "120-654-3299",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v64.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph65.jpg",
+            "phone": "917-654-0710",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v65.mp4"
+        },
+         
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph66.jpg",
+            "phone": "959-654-3980",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v66.mp4"
+        },
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph68.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v68.mp4"
+        },
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph69.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v69.mp4"
+        },
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph70.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v70.mp4"
+        },
+        {
+            "name": "skibidi toilet",
+            "image": "https://proreskin9.github.io/server/skibidi/ph71.jpg",
+            "phone": "444-444-4444",
+            "voice": "https://proreskin9.github.io/server/skibidi/m1.mp3",
+            "video": "https://proreskin9.github.io/server/skibidi/v71.mp4"
+        }
+  ]
+}
