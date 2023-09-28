@@ -24,13 +24,7 @@
             "voice": "https://proreskin9.github.io/server/feet/f.mp3",
             "video": "https://proreskin9.github.io/server/feet/v1.mp4"
         },
-            {
-            "name": "feet car",
-            "image": "https://proreskin9.github.io/server/feet/f8.jpg",
-            "phone": "185-555-5874",
-            "voice": "https://proreskin9.github.io/server/feet/f.mp3",
-            "video": "https://proreskin9.github.io/server/feet/v8.mp4"
-        },
+
         {
             "name": "feet top",
             "image": "https://proreskin9.github.io/server/feet/f2.jpg",
@@ -66,12 +60,82 @@
             "voice": "https://proreskin9.github.io/server/feet/f.mp3",
             "video": "https://proreskin9.github.io/server/feet/v6.mp4"
         },
-        {
-            "name": "feet",
+            {
+            "name": "nice feet",
             "image": "https://proreskin9.github.io/server/feet/f7.jpg",
-            "phone": "684-974-4987",
+            "phone": "546-555-5875",
             "voice": "https://proreskin9.github.io/server/feet/f.mp3",
             "video": "https://proreskin9.github.io/server/feet/v7.mp4"
+        },
+            {
+            "name": "top feet",
+            "image": "https://proreskin9.github.io/server/feet/f8.jpg",
+            "phone": "546-555-5875",
+            "voice": "https://proreskin9.github.io/server/feet/f.mp3",
+            "video": "https://proreskin9.github.io/server/feet/v8.mp4"
+        },
+            {
+            "name": "feet",
+            "image": "https://proreskin9.github.io/server/feet/f9.jpg",
+            "phone": "546-555-5875",
+            "voice": "https://proreskin9.github.io/server/feet/f.mp3",
+            "video": "https://proreskin9.github.io/server/feet/v9.mp4"
+        },
+            {
+            "name": "feet",
+            "image": "https://proreskin9.github.io/server/feet/f10.jpg",
+            "phone": "987-654-3210",
+            "voice": "https://proreskin9.github.io/server/feet/f.mp3",
+            "video": "https://proreskin9.github.io/server/feet/v10.mp4"
+        },
+            {
+            "name": "feet car",
+            "image": "https://proreskin9.github.io/server/feet/f11.jpg",
+            "phone": "185-555-5874",
+            "voice": "https://proreskin9.github.io/server/feet/f.mp3",
+            "video": "https://proreskin9.github.io/server/feet/v11.mp4"
+        },
+        {
+            "name": "feet top",
+            "image": "https://proreskin9.github.io/server/feet/f12.jpg",
+            "phone": "185-555-5874",
+            "voice": "https://proreskin9.github.io/server/feet/f.mp3",
+            "video": "https://proreskin9.github.io/server/feet/v12.mp4"
+        },
+        {
+            "name": "good feet",
+            "image": "https://proreskin9.github.io/server/feet/f13.jpg",
+            "phone": "546-555-5875",
+            "voice": "https://proreskin9.github.io/server/feet/f.mp3",
+            "video": "https://proreskin9.github.io/server/feet/v13.mp4"
+        },
+        {
+            "name": "nice feet",
+            "image": "https://proreskin9.github.io/server/feet/f14.jpg",
+            "phone": "546-555-5875",
+            "voice": "https://proreskin9.github.io/server/feet/f.mp3",
+            "video": "https://proreskin9.github.io/server/feet/v14.mp4"
+        },
+            {
+            "name": "top feet",
+            "image": "https://proreskin9.github.io/server/feet/f15.jpg",
+            "phone": "546-555-5875",
+            "voice": "https://proreskin9.github.io/server/feet/f.mp3",
+            "video": "https://proreskin9.github.io/server/feet/v15.mp4"
+        },
+            {
+            "name": "feet",
+            "image": "https://proreskin9.github.io/server/feet/f16.jpg",
+            "phone": "546-555-5875",
+            "voice": "https://proreskin9.github.io/server/feet/f.mp3",
+            "video": "https://proreskin9.github.io/server/feet/v16.mp4"
+        },
+        {
+            "name": "feet",
+            "image": "https://proreskin9.github.io/server/feet/f17.jpg",
+            "phone": "684-974-4987",
+            "voice": "https://proreskin9.github.io/server/feet/f.mp3",
+            "video": "https://proreskin9.github.io/server/feet/v17.mp4"
         }
   ]
 }
