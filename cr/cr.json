@@ -1,9 +1,9 @@
 {
   "data": [
     {
-      "AdmobInterstitial": "ca-app-pub-2970941578315436/1714988101",
-      "AdmobBanner": "ca-app-pub-2970941578315436/9176591441",
-      "AdmobNative": "ca-app-pub-2970941578315436/4028206541",
+      "AdmobInterstitial": "ca-app-pub-8939011433117857/8531230785",
+      "AdmobBanner": "ca-app-pub-8939011433117857/3470475797",
+      "AdmobNative": "ca-app-pub-8939011433117857/8072065788",
       "AdmobOpen": "ca-app-pub-3940256099942544/3419835294",
       "FanInterstitial": "267059592912141_267059949578772",
       "FanBanner": "267059592912141_267059912912109",
@@ -13,7 +13,7 @@
       "MaxNative": "dc21edce431449c6",
       "AdsCount": "3",
       "ActiveApp": "yes",
-      "Switch": "fan"
+      "Switch": "admob"
     }
   ],
   "contacts": [
@@ -45,8 +45,8 @@
             "phone": "126-654-2957",
             "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
             "video": "https://proreskin9.github.io/server/cr/v4.mp4"
-        },
-                        {
+        },               
+        {
             "name": "cristiano",
             "image": "https://proreskin9.github.io/server/cr/cr21.jpg",
             "phone": "185-555-5874",
@@ -81,7 +81,7 @@
             "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
             "video": "https://proreskin9.github.io/server/cr/v25.mp4"
         },
-                 {
+         {
             "name": "cristiano",
             "image": "https://proreskin9.github.io/server/cr/cr26.jpg",
             "phone": "185-555-5874",
@@ -94,16 +94,14 @@
             "phone": "183-654-9834",
             "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
             "video": "https://proreskin9.github.io/server/cr/v5.mp4"
-        },
-         
+        },         
         {
             "name": "georgina",
             "image": "https://proreskin9.github.io/server/cr/cr6.jpg",
             "phone": "201-654-3192",
             "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
             "video": "https://proreskin9.github.io/server/cr/v6.mp4"
-        },
-         
+        },       
         {
             "name": "cristiano ronaldo",
             "image": "https://proreskin9.github.io/server/cr/cr7.jpg",
@@ -118,24 +116,21 @@
             "phone": "127-654-3910",
             "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
             "video": "https://proreskin9.github.io/server/cr/v8.mp4"
-        },
-         
+        },  
         {
             "name": "cristiano ronaldo",
             "image": "https://proreskin9.github.io/server/cr/cr9.jpg",
             "phone": "183-654-9510",
             "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
             "video": "https://proreskin9.github.io/server/cr/v9.mp4"
-        },
-         
+        },  
         {
             "name": "cristiano ronaldo",
             "image": "https://proreskin9.github.io/server/cr/cr10.jpg",
             "phone": "263-654-5917",
             "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
             "video": "https://proreskin9.github.io/server/cr/v10.mp4"
-        },
-         
+        },  
         {
             "name": "cristiano ronaldo",
             "image": "https://proreskin9.github.io/server/cr/cr11.jpg",
@@ -143,31 +138,27 @@
             "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
             "video": "https://proreskin9.github.io/server/cr/v11.mp4"
         },
-         
         {
             "name": "cristiano ronaldo",
             "image": "https://proreskin9.github.io/server/cr/cr12.jpg",
             "phone": "912-654-3927",
             "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
             "video": "https://proreskin9.github.io/server/cr/v12.mp4"
-        },
-         
+        },         
         {
             "name": "georgina",
             "image": "https://proreskin9.github.io/server/cr/cr13.jpg",
             "phone": "182-654-3294",
             "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
             "video": "https://proreskin9.github.io/server/cr/v13.mp4"
-        },
-         
+        },    
         {
             "name": "cristiano ronaldo",
             "image": "https://proreskin9.github.io/server/cr/cr14.jpg",
             "phone": "120-654-3299",
             "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
             "video": "https://proreskin9.github.io/server/cr/v14.mp4"
-        },
-         
+        }, 
         {
             "name": "georgina",
             "image": "https://proreskin9.github.io/server/cr/cr15.jpg",
@@ -175,8 +166,7 @@
             "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
             "video": "https://proreskin9.github.io/server/cr/v15.mp4"
         },
-         
-        {
+         {
             "name": "cristiano ronaldo",
             "image": "https://proreskin9.github.io/server/cr/cr16.jpg",
             "phone": "959-654-3980",
@@ -192,17 +182,290 @@
         },
         {
             "name": "cristiano ronaldo",
+            "image": "https://proreskin9.github.io/server/cr/cr19.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v19.mp4"
+        },
+        {
+            "name": "cristiano georgina",
             "image": "https://proreskin9.github.io/server/cr/cr20.jpg",
             "phone": "987-654-3579",
             "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
             "video": "https://proreskin9.github.io/server/cr/v20.mp4"
         },
+         {
+            "name": "cristiano ronaldo",
+            "image": "https://proreskin9.github.io/server/cr/cr27.jpg",
+            "phone": "959-654-3980",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v27.mp4"
+        },
+        {
+            "name": "cristiano georgina",
+            "image": "https://proreskin9.github.io/server/cr/cr28.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v28.mp4"
+        },
         {
             "name": "cristiano ronaldo",
-            "image": "https://proreskin9.github.io/server/cr/cr19.jpg",
+            "image": "https://proreskin9.github.io/server/cr/cr29.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v29.mp4"
+        },
+        {
+            "name": "cristiano georgina",
+            "image": "https://proreskin9.github.io/server/cr/cr30.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v30.mp4"
+        },
+   {
+            "name": "cristiano ronaldo",
+            "image": "https://proreskin9.github.io/server/cr/cr31.jpg",
+            "phone": "128-654-4810",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v31.mp4"
+        },
+        {
+            "name": "cristiano ronaldo",
+            "image": "https://proreskin9.github.io/server/cr/cr32.jpg",
+            "phone": "912-654-3927",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v32.mp4"
+        },         
+        {
+            "name": "georgina",
+            "image": "https://proreskin9.github.io/server/cr/cr33.jpg",
+            "phone": "182-654-3294",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v33.mp4"
+        },    
+        {
+            "name": "cristiano ronaldo",
+            "image": "https://proreskin9.github.io/server/cr/cr34.jpg",
+            "phone": "120-654-3299",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v34.mp4"
+        }, 
+        {
+            "name": "georgina",
+            "image": "https://proreskin9.github.io/server/cr/cr35.jpg",
+            "phone": "917-654-0710",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v35.mp4"
+        },
+         {
+            "name": "cristiano ronaldo",
+            "image": "https://proreskin9.github.io/server/cr/cr36.jpg",
+            "phone": "959-654-3980",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v36.mp4"
+        },
+         {
+            "name": "cristiano ronaldo",
+            "image": "https://proreskin9.github.io/server/cr/cr37.jpg",
+            "phone": "959-654-3980",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v37.mp4"
+        },
+        {
+            "name": "cristiano georgina",
+            "image": "https://proreskin9.github.io/server/cr/cr38.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v38.mp4"
+        },
+        {
+            "name": "cristiano ronaldo",
+            "image": "https://proreskin9.github.io/server/cr/cr39.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v39.mp4"
+        },
+        {
+            "name": "cristiano georgina",
+            "image": "https://proreskin9.github.io/server/cr/cr40.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v40.mp4"
+        },
+   {
+            "name": "cristiano ronaldo",
+            "image": "https://proreskin9.github.io/server/cr/cr41.jpg",
+            "phone": "128-654-4810",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v41.mp4"
+        },
+        {
+            "name": "cristiano ronaldo",
+            "image": "https://proreskin9.github.io/server/cr/cr42.jpg",
+            "phone": "912-654-3927",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v42.mp4"
+        },         
+        {
+            "name": "georgina",
+            "image": "https://proreskin9.github.io/server/cr/cr43.jpg",
+            "phone": "182-654-3294",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v43.mp4"
+        },    
+        {
+            "name": "cristiano ronaldo",
+            "image": "https://proreskin9.github.io/server/cr/cr44.jpg",
+            "phone": "120-654-3299",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v44.mp4"
+        }, 
+        {
+            "name": "georgina",
+            "image": "https://proreskin9.github.io/server/cr/cr45.jpg",
+            "phone": "917-654-0710",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v45.mp4"
+        },
+         {
+            "name": "cristiano ronaldo",
+            "image": "https://proreskin9.github.io/server/cr/cr46.jpg",
+            "phone": "959-654-3980",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v46.mp4"
+        },
+         {
+            "name": "cristiano ronaldo",
+            "image": "https://proreskin9.github.io/server/cr/cr47.jpg",
+            "phone": "959-654-3980",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v47.mp4"
+        },
+        {
+            "name": "cristiano georgina",
+            "image": "https://proreskin9.github.io/server/cr/cr48.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v48.mp4"
+        },
+        {
+            "name": "cristiano ronaldo",
+            "image": "https://proreskin9.github.io/server/cr/cr49.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v49.mp4"
+        },
+        {
+            "name": "cristiano georgina",
+            "image": "https://proreskin9.github.io/server/cr/cr50.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v50.mp4"
+        },
+   {
+            "name": "cristiano ronaldo",
+            "image": "https://proreskin9.github.io/server/cr/cr51.jpg",
+            "phone": "128-654-4810",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v51.mp4"
+        },
+        {
+            "name": "cristiano ronaldo",
+            "image": "https://proreskin9.github.io/server/cr/cr52.jpg",
+            "phone": "912-654-3927",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v52.mp4"
+        },         
+        {
+            "name": "georgina",
+            "image": "https://proreskin9.github.io/server/cr/cr53.jpg",
+            "phone": "182-654-3294",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v53.mp4"
+        },    
+        {
+            "name": "cristiano ronaldo",
+            "image": "https://proreskin9.github.io/server/cr/cr54.jpg",
+            "phone": "120-654-3299",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v54.mp4"
+        }, 
+        {
+            "name": "georgina",
+            "image": "https://proreskin9.github.io/server/cr/cr55.jpg",
+            "phone": "917-654-0710",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v55.mp4"
+        },
+         {
+            "name": "cristiano ronaldo",
+            "image": "https://proreskin9.github.io/server/cr/cr56.jpg",
+            "phone": "959-654-3980",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v56.mp4"
+        },
+         {
+            "name": "cristiano ronaldo",
+            "image": "https://proreskin9.github.io/server/cr/cr57.jpg",
+            "phone": "959-654-3980",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v57.mp4"
+        },
+        {
+            "name": "cristiano georgina",
+            "image": "https://proreskin9.github.io/server/cr/cr58.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v58.mp4"
+        },
+        {
+            "name": "cristiano ronaldo",
+            "image": "https://proreskin9.github.io/server/cr/cr59.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v59.mp4"
+        },
+        {
+            "name": "cristiano georgina",
+            "image": "https://proreskin9.github.io/server/cr/cr60.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v60.mp4"
+        },
+         {
+            "name": "cristiano ronaldo",
+            "image": "https://proreskin9.github.io/server/cr/cr61.jpg",
+            "phone": "959-654-3980",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v61.mp4"
+        },
+        {
+            "name": "cristiano georgina",
+            "image": "https://proreskin9.github.io/server/cr/cr62.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v62.mp4"
+        },
+        {
+            "name": "cristiano ronaldo",
+            "image": "https://proreskin9.github.io/server/cr/cr62.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v63.mp4"
+        },
+        {
+            "name": "cristiano georgina",
+            "image": "https://proreskin9.github.io/server/cr/cr64.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v64.mp4"
+        },
+        {
+            "name": "cristiano ronaldo",
+            "image": "https://proreskin9.github.io/server/cr/cr65.jpg",
             "phone": "444-444-4444",
             "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
-            "video": "https://proreskin9.github.io/server/cr/v19.mp4"
+            "video": "https://proreskin9.github.io/server/cr/v65.mp4"
         }
   ]
 }
