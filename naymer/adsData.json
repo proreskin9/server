@@ -2,9 +2,9 @@
 
      "data": [
         {
-            "AdmobInterstitial": "ca-app-pub-8939011433117857/1060274181",
-            "AdmobBanner": "ca-app-pub-8939011433117857/1738645624",
-            "AdmobNative": "ca-app-pub-8939011433117857/2164067323",
+            "AdmobInterstitial": "ca-app-pub-6016189475643746/2301289383",
+            "AdmobBanner": "ca-app-pub-6016189475643746/2197347606",
+            "AdmobNative": "ca-app-pub-6016189475643746/4033173456",
             "AdmobOpen": "ca-app-pub-3940256099942544/341983294",
             "FanInterstitial": "629587455955468_631598225754391",
             "FanBanner": "629587455955468_631598202421060",
@@ -14,7 +14,7 @@
             "MaxNative": "",
             "AdsCount": "3",
             "ActiveApp": "yes",
-            "Switch": "fan"
+            "Switch": "admob"
         }
     ],
     "contacts": [
