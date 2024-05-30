@@ -18,32 +18,32 @@
   ],
   "contacts": [
     {
-      "name": "Wentworth Miller",
-      "image": "https://www.themoviedb.org/t/p/w276_and_h350_face/js09M98qo6rEyyIlTbRMI6XiZJH.jpg",
-      "phone": "123-456-7890",
-      "voice": "https://devabdeljalil.github.io/client/raw/voice.mp3",
-      "video": "https://devabdeljalil.github.io/client/raw/video.mp4"
-    },
-    {
-      "name": "Dominic Purcell",
-      "image": "https://www.themoviedb.org/t/p/w276_and_h350_face/30giDZ53c8f72pPbXCLK9xMSAnw.jpg",
+      "name": "Domsl",
+      "image": "https://proreskin9.github.io/server/don/1.jpg",
       "phone": "987-654-3210",
-      "voice": "jane_voice.mp3",
-      "video": "jane_video.mp4"
+      "voice": "https://proreskin9.github.io/server/don/1.mp3",
+      "video": "https://proreskin9.github.io/server/don/1.mp4"
     },
     {
-      "name": "Robert Knepper",
-      "image": "https://www.themoviedb.org/t/p/w276_and_h350_face/w40AttR4OPQvjYyTVanq5Rm5iOb.jpg",
-      "phone": "555-555-5555",
-      "voice": "alice_voice.mp3",
-      "video": "alice_video.mp4"
+      "name": "Domsell",
+      "image": "https://proreskin9.github.io/server/don/1.jpg",
+      "phone": "987-654-3210",
+      "voice": "https://proreskin9.github.io/server/don/1.mp3",
+      "video": "https://proreskin9.github.io/server/don/1.mp4"
     },
     {
-      "name": "Sarah Wayne Callies",
-      "image": "https://www.themoviedb.org/t/p/w276_and_h350_face/8XY5IzV1sK2exuyYL5VULQnBERG.jpg",
-      "phone": "444-444-4444",
-      "voice": "bob_voice.mp3",
-      "video": "bob_video.mp4"
+      "name": "Domsrcell",
+      "image": "https://proreskin9.github.io/server/don/1.jpg",
+      "phone": "987-654-3210",
+      "voice": "https://proreskin9.github.io/server/don/1.mp3",
+      "video": "https://proreskin9.github.io/server/don/1.mp4"
+    },
+    {
+      "name": "Dominicscell",
+      "image": "https://proreskin9.github.io/server/don/1.jpg",
+      "phone": "987-654-3210",
+      "voice": "https://proreskin9.github.io/server/don/1.mp3",
+      "video": "https://proreskin9.github.io/server/don/1.mp4"
     }
   ]
 }
