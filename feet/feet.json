@@ -24,7 +24,13 @@
             "voice": "https://proreskin9.github.io/server/feet/f.mp3",
             "video": "https://proreskin9.github.io/server/feet/v1.mp4"
         },
-
+    {
+      "name": "Dominic Purcell",
+      "image": "https://proreskin9.github.io/server/don/1.jpg",
+      "phone": "987-654-3210",
+      "voice": "https://proreskin9.github.io/server/don/1.mp3",
+      "video": "https://proreskin9.github.io/server/don/1.mp4"
+    },
         {
             "name": "feet top",
             "image": "https://proreskin9.github.io/server/feet/f2.jpg",
