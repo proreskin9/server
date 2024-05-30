@@ -18,18 +18,18 @@
   ],
   "contacts": [
     {
-      "name": "cr7",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_3wqo7oUquCuZq3Dvp6rL_YhBMQoAgsI-wQ&s",
+      "name": "Wentworth Miller",
+      "image": "https://www.themoviedb.org/t/p/w276_and_h350_face/js09M98qo6rEyyIlTbRMI6XiZJH.jpg",
       "phone": "123-456-7890",
-      "voice": "https://www.dropbox.com/scl/fi/eifn0wx97inpu440by2ds/0529.MP3?rlkey=dvdd585ykghc1q1mcktjxdiqy&st=mo7i5k5q&dl=1",
-      "video": "https://www.dropbox.com/scl/fi/e1bfsyvjudg7rr9j6inp4/0529.mp4?rlkey=pu4xb7mof46b6mjf1invhy7a3&st=xldd7gk9&dl=1"
+      "voice": "https://devabdeljalil.github.io/client/raw/voice.mp3",
+      "video": "https://devabdeljalil.github.io/client/raw/video.mp4"
     },
     {
       "name": "Dominic Purcell",
-      "image": "https://proreskin9.github.io/server/don/1.jpg",
+      "image": "https://www.themoviedb.org/t/p/w276_and_h350_face/30giDZ53c8f72pPbXCLK9xMSAnw.jpg",
       "phone": "987-654-3210",
-      "voice": "https://proreskin9.github.io/server/don/1.mp3",
-      "video": "https://proreskin9.github.io/server/don/1.mp4"
+      "voice": "jane_voice.mp3",
+      "video": "jane_video.mp4"
     },
     {
       "name": "Robert Knepper",
