@@ -17,33 +17,83 @@
     }
   ],
   "contacts": [
-    {
-      "name": "Domsl",
-      "image": "https://proreskin9.github.io/server/don/1.jpg",
-      "phone": "987-654-3210",
-      "voice": "https://proreskin9.github.io/server/don/1.mp3",
-      "video": "https://proreskin9.github.io/server/don/1.mp4"
-    },
-    {
-      "name": "Domsell",
-      "image": "https://proreskin9.github.io/server/don/1.jpg",
-      "phone": "987-654-3210",
-      "voice": "https://proreskin9.github.io/server/don/1.mp3",
-      "video": "https://proreskin9.github.io/server/don/1.mp4"
-    },
-    {
-      "name": "messi",
-      "image": "https://www.dropbox.com/scl/fi/kfx9qcaugw69fxz8cwq6o/ccc.jpeg?rlkey=a1goijcxpf61kphl0241z1m8m&st=bd1rnqwv&dl=1",
-      "phone": "987-654-3210",
-      "voice": "https://www.dropbox.com/scl/fi/vs8vapy88lfgq46zpqyvk/messi.MP3?rlkey=5uz970mi63q07nuo1n75wpq96&st=rbkfun89&dl=1",
-      "video": "https://www.dropbox.com/scl/fi/pdsv5il8gr58sn3zrijpo/messi.mp4?rlkey=ztl4fpa9q3cmnl8f4jzoznoic&st=d2iacn4g&dl=1"
-    },
-    {
-      "name": "Dominicscell",
-      "image": "https://proreskin9.github.io/server/don/1.jpg",
-      "phone": "987-654-3210",
-      "voice": "https://proreskin9.github.io/server/don/1.mp3",
-      "video": "https://proreskin9.github.io/server/don/1.mp4"
+                 {
+            "name": "cristiano",
+            "image": "https://proreskin9.github.io/server/cr/cr2.jpg",
+            "phone": "185-555-5874",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v2.mp4"
+        },
+                 {
+            "name": "cristiano ronaldo",
+            "image": "https://proreskin9.github.io/server/cr/cr3.jpg",
+            "phone": "546-555-5875",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v3.mp4"
+        },
+          {
+            "name": "georgina",
+            "image": "https://proreskin9.github.io/server/cr/cr6.jpg",
+            "phone": "201-654-3192",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v6.mp4"
+        }, 
+        {
+            "name": "georgina",
+            "image": "https://proreskin9.github.io/server/cr/cr13.jpg",
+            "phone": "182-654-3294",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v13.mp4"
+        },   
+        {
+            "name": "cristiano georgina",
+            "image": "https://proreskin9.github.io/server/cr/cr62.jpg",
+            "phone": "987-654-3579",
+            "voice": "https://proreskin9.github.io/server/cr/v1.mp3",
+            "video": "https://proreskin9.github.io/server/cr/v62.mp4"
+        },
+        {
+            "name": "Lionel Messi",
+            "image": "https://proreskin9.github.io/server/messi/ph2.jpg",
+            "phone": "185-555-5874",
+            "voice": "https://proreskin9.github.io/server/messi/messi.mp3",
+            "video": "https://proreskin9.github.io/server/messi/v2.mp4"
+        },
+          {
+            "name": "Lionel Messi",
+            "image": "https://proreskin9.github.io/server/messi/ph3.jpg",
+            "phone": "546-555-5875",
+            "voice": "https://proreskin9.github.io/server/messi/messi.mp3",
+            "video": "https://proreskin9.github.io/server/messi/v3.mp4"
+        },
+       {
+            "name": "neymar",
+            "image": "https://proreskin9.github.io/server/naymer/ph44.jpg",
+            "phone": "126-654-2957",
+            "voice": "jane_voice.mp3",
+            "video": "https://proreskin9.github.io/server/naymer/v4.mp4"
+        },
+         
+        {
+            "name": "neymar",
+            "image": "https://proreskin9.github.io/server/naymer/ph55.jpg",
+            "phone": "183-654-9834",
+            "voice": "jane_voice.mp3",
+            "video": "https://proreskin9.github.io/server/naymer/v5.mp4"
+        },
+        {
+            "name": "Kylian Mbappe",
+            "image": "https://proreskin9.github.io/server/mpp/ph1.jpg",
+            "phone": "987-654-3210",
+            "voice": "https://proreskin9.github.io/server/mpp/mpp.mp3",
+            "video": "https://proreskin9.github.io/server/mpp/v1.mp4"
+        },
+        {
+            "name": "Mbappe",
+            "image": "https://proreskin9.github.io/server/mpp/ph2.jpg",
+            "phone": "185-555-5874",
+            "voice": "https://proreskin9.github.io/server/mpp/mpp.mp3",
+            "video": "https://proreskin9.github.io/server/mpp/v2.mp4"
     }
   ]
 }
