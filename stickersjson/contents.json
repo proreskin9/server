@@ -1177,6 +1177,86 @@
         }
       ]
     },
+            {
+      "identifier": "15",
+      "name": "animated",
+      "publisher": "hamada",
+      "tray_image_file": "https://proreskin9.github.io/server/stickersjson/app1/image_2.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "category": "animated",
+     "animated_sticker_pack": true,
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/app1/image1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/app1/image2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/app1/image3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/app1/image4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/app1/image5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/app1/image6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/app1/image7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/app1/image8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+ {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/app1/image21.webp",
+          "emojis": [
+            "😡",
+            "😠"
+          ]
+        }
+      ]
+    },
+    
     {
       "identifier": "15",
       "name": "Flowers Pack 03",
