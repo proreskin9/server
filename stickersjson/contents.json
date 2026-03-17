@@ -1178,7 +1178,7 @@
       ]
     },
             {
-      "identifier": "15",
+      "identifier": "app1",
       "name": "animated",
       "publisher": "hamada",
       "tray_image_file": "https://proreskin9.github.io/server/stickersjson/app1/image_2.png",
@@ -1259,7 +1259,7 @@
     
     {
       "identifier": "15",
-      "name": "Flowers Pack 03",
+      "name": "Fffff",
       "publisher": "Dhiya Soft",
       "tray_image_file": "https://proreskin9.github.io/server/stickersjson/3/image_3.png",
       "image_data_version": "1",
