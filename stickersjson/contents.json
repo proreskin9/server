@@ -1,34 +1,21 @@
 {
-  "android_play_store_link": "https://play.google.com/store/apps/details?id=your.package.id",
-  "ios_app_store_link": "https://apps.apple.com/app/your-app-id",
-  "ads_config": {
-    "ad_provider": "admob",
-    "show_ads": true,
-    "admob": {
-      "banner_id": "ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-      "native_id": "ca-app-pub-3940256099942544/2247696110",
-      "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
-          "open_app_id": "ca-app-pub-3940256099942544/9257395912"
-    },
-    "fan": {
-      "banner_id": "YOUR_FAN_BANNER_ID",
-      "interstitial_id": "YOUR_FAN_INTER_ID",
-      "native_id": "YOUR_FAN_NATIVE_ID",
-    "rewarded_id": "YOUR_FAN_REWARDED_ID",
-    "open_app_id": ""
-    }
-  },
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.hamadalkher.wastickerstext", 
+  "ios_app_store_link": "",
   "sticker_packs": [
     {
-      "identifier": "pack_01",
-      "name": "Romantic Flowers",
-      "publisher": "Dhiya Soft",
-      "category": "Flowers",
-      "tray_image_file": "https://proreskin9.github.io/server/stickersjson/1/image1.webp",
-      "animated_sticker_pack": false,
+      "identifier": "1",
+      "name": "Fhh",
+      "publisher": "hamada",
+      "tray_image_file": "https://proreskin9.github.io/server/stickersjson/1/image_1.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+       "category": "layan",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
       "stickers": [
-   {
+        {
           "image_file": "https://proreskin9.github.io/server/stickersjson/1/image1.webp",
           "emojis": [
             "☕",
@@ -177,7 +164,7 @@
         }
       ]
     },
-    {
+        {
       "identifier": "2",
       "name": "Flo 2",
       "publisher": "Dhiya Soft",
@@ -558,11 +545,779 @@
             "💑"
           ]
         },
-      {
+ {
           "image_file": "https://proreskin9.github.io/server/stickersjson/2/image21.webp",
           "emojis": [
             "😡",
             "😠"
+          ]
+        }
+      ]
+    },
+        {
+      "identifier": "7",
+      "name": "Flowers Pack 02",
+      "publisher": "Dhiya Soft",
+      "tray_image_file": "https://proreskin9.github.io/server/stickersjson/2/image_2.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+       "category": "hamada",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+ {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image21.webp",
+          "emojis": [
+            "😡",
+            "😠"
+          ]
+        }
+      ]
+    },
+        {
+      "identifier": "8",
+      "name": "Flowers Pack 02",
+      "publisher": "Dhiya Soft",
+      "tray_image_file": "https://proreskin9.github.io/server/stickersjson/2/image_2.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+       "category": "hamada",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+ {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image21.webp",
+          "emojis": [
+            "😡",
+            "😠"
+          ]
+        }
+      ]
+    },
+        {
+      "identifier": "9",
+      "name": "Flowers Pack 02",
+      "publisher": "Dhiya Soft",
+      "tray_image_file": "https://proreskin9.github.io/server/stickersjson/2/image_2.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+       "category": "hamada",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+ {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image21.webp",
+          "emojis": [
+            "😡",
+            "😠"
+          ]
+        }
+      ]
+    },
+        {
+      "identifier": "10",
+      "name": "Flowers Pack 02",
+      "publisher": "Dhiya Soft",
+      "tray_image_file": "https://proreskin9.github.io/server/stickersjson/2/image_2.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+       "category": "hamada",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+ {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image21.webp",
+          "emojis": [
+            "😡",
+            "😠"
+          ]
+        }
+      ]
+    },
+        {
+      "identifier": "11",
+      "name": "Flowers Pack 02",
+      "publisher": "Dhiya Soft",
+      "tray_image_file": "https://proreskin9.github.io/server/stickersjson/2/image_2.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+       "category": "hamada",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+ {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image21.webp",
+          "emojis": [
+            "😡",
+            "😠"
+          ]
+        }
+      ]
+    },
+        {
+      "identifier": "12",
+      "name": "Flowers Pack 02",
+      "publisher": "Dhiya Soft",
+      "tray_image_file": "https://proreskin9.github.io/server/stickersjson/2/image_2.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+       "category": "hamada",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+ {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image21.webp",
+          "emojis": [
+            "😡",
+            "😠"
+          ]
+        }
+      ]
+    },
+        {
+      "identifier": "13",
+      "name": "Flowers Pack 02",
+      "publisher": "Dhiya Soft",
+      "tray_image_file": "https://proreskin9.github.io/server/stickersjson/2/image_2.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+       "category": "hamada",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+ {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image21.webp",
+          "emojis": [
+            "😡",
+            "😠"
+          ]
+        }
+      ]
+    },
+        {
+      "identifier": "14",
+      "name": "Flowers Pack 02",
+      "publisher": "Dhiya Soft",
+      "tray_image_file": "https://proreskin9.github.io/server/stickersjson/2/image_2.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+       "category": "hamada",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+ {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/2/image21.webp",
+          "emojis": [
+            "😡",
+            "😠"
+          ]
+        }
+      ]
+    },
+            {
+      "identifier": "app1",
+      "name": "animated",
+      "publisher": "hamada",
+      "tray_image_file": "https://proreskin9.github.io/server/stickersjson/app1/image_1.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "category": "animated",
+     "animated_sticker_pack": true,
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/app1/image1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/app1/image2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/app1/image3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/app1/image4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/app1/image5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/app1/image6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/app1/image7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/app1/image8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+ {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/app1/image21.webp",
+          "emojis": [
+            "😡",
+            "😠"
+          ]
+        }
+      ]
+    },
+    
+    {
+      "identifier": "15",
+      "name": "Fffff",
+      "publisher": "Dhiya Soft",
+      "tray_image_file": "https://proreskin9.github.io/server/stickersjson/15/image_3.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+           "category": "Flowers",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/15/image1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/15/image2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/15/image3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/15/image4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/15/image5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+            {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/15/image7.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "https://proreskin9.github.io/server/stickersjson/15/image6.webp",
+          "emojis": [
+            "🔋",
+            "😵"
           ]
         }
       ]
