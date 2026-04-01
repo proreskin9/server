@@ -1,8 +1,8 @@
 {
-  "android_play_store_link": "...",
-  "ios_app_store_link": "...",
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=your.package.id",
+  "ios_app_store_link": "https://apps.apple.com/app/your-app-id",
   "ads_config": {
-    "ad_provider": "admob", 
+    "ad_provider": "admob",
     "show_ads": true,
     "admob": {
       "banner_id": "ca-app-pub-3940256099942544/6300978111",
@@ -11,27 +11,22 @@
       "rewarded_id": "ca-app-pub-3940256099942544/5224354917"
     },
     "fan": {
-      "banner_id": "YOUR_FAN_ID",
-      "interstitial_id": "YOUR_FAN_ID",
-      "native_id": "YOUR_FAN_ID",
-      "rewarded_id": "YOUR_FAN_ID"
+      "banner_id": "YOUR_FAN_BANNER_ID",
+      "interstitial_id": "YOUR_FAN_INTER_ID",
+      "native_id": "YOUR_FAN_NATIVE_ID",
+      "rewarded_id": "YOUR_FAN_REWARD_ID"
     }
   },
-"sticker_packs": [
+  "sticker_packs": [
     {
-      "identifier": "1",
-      "name": "Fhh",
+      "identifier": "pack_01",
+      "name": "Romantic Flowers",
       "publisher": "Dhiya Soft",
-      "tray_image_file": "https://proreskin9.github.io/server/stickersjson/1/image_1.png",
-      "image_data_version": "1",
-      "avoid_cache": false,
-       "category": "layan",
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
+      "category": "Flowers",
+      "tray_image_file": "tray.png",
+      "animated_sticker_pack": false,
       "stickers": [
-        {
+   {
           "image_file": "https://proreskin9.github.io/server/stickersjson/1/image1.webp",
           "emojis": [
             "☕",
@@ -180,7 +175,7 @@
         }
       ]
     },
-        {
+    {
       "identifier": "2",
       "name": "Flo 2",
       "publisher": "Dhiya Soft",
@@ -561,7 +556,7 @@
             "💑"
           ]
         },
- {
+      {
           "image_file": "https://proreskin9.github.io/server/stickersjson/2/image21.webp",
           "emojis": [
             "😡",
@@ -569,6 +564,6 @@
           ]
         }
       ]
-    },
+    }
   ]
 }
