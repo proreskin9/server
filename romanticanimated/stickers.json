@@ -6,7 +6,7 @@
       "identifier": "1",
       "name": "Fhh",
       "publisher": "devlados",
-      "tray_image_file": "https://proreskin9.github.io/server/romanticanimated/1/1.webp",
+      "tray_image_file": "https://proreskin9.github.io/server/romanticanimated/1/a7.webp",
       "image_data_version": "1",
       "avoid_cache": false,
        "category": "Emojie",
@@ -16,14 +16,14 @@
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "https://proreskin9.github.io/server/romanticanimated/1/1.webp",
+          "image_file": "https://proreskin9.github.io/server/romanticanimated/1/a1.webp",
           "emojis": [
             "☕",
             "🙂"
           ]
         },
         {
-          "image_file": "https://proreskin9.github.io/server/romanticanimated/1/2.webp",
+          "image_file": "https://proreskin9.github.io/server/romanticanimated/1/a2.webp",
           "emojis": [
             "😄",
             "😀"
@@ -199,7 +199,7 @@
           ]
         },
         {
-          "image_file": "https://proreskin9.github.io/server/romanticanimated/2/12.webp",
+          "image_file": "https://proreskin9.github.io/server/romanticanimated/2/b12.webp",
           "emojis": [
             "😍",
             "♥"
@@ -232,7 +232,7 @@
       "identifier": "3",
       "name": "Fffff",
       "publisher": "devlados",
-      "tray_image_file": "https://proreskin9.github.io/server/romanticanimated/3/c6.png",
+      "tray_image_file": "https://proreskin9.github.io/server/romanticanimated/3/c6.webp",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "",
