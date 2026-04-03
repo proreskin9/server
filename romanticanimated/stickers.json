@@ -108,6 +108,164 @@
         }
       ]
     },
+    {
+"identifier": "19",
+"name": "love5",
+"publisher": "devlados",
+"tray_image_file": "https://proreskin9.github.io/server/stickers%20romantic%20animated/f/b7.webp",
+"image_data_version": "1",
+"avoid_cache": false,
+"publisher_email": "",
+       
+"category": "love",
+"publisher_website": "",
+         "animated_sticker_pack": true,
+"privacy_policy_website": "",
+"license_agreement_website": "",
+"stickers": [
+{
+  "image_file": "https://proreskin9.github.io/server/stickers%20romantic%20animated/f/b1.webp",
+  "emojis": [
+    "☕",
+    "🙂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/stickers%20romantic%20animated/f/b2.webp",
+  "emojis": [
+    "😄",
+    "😀"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/stickers%20romantic%20animated/f/b3.webp",
+  "emojis": [
+    "😆",
+    "😂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/stickers%20romantic%20animated/f/b4.webp",
+  "emojis": [
+    "😩",
+    "😰"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/stickers%20romantic%20animated/f/b5.webp",
+  "emojis": [
+    "😭",
+    "💧"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/stickers%20romantic%20animated/f/b6.webp",
+  "emojis": [
+    "😍",
+    "♥"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/stickers%20romantic%20animated/f/b7.webp",
+  "emojis": [
+    "💔",
+    "👎"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/stickers%20romantic%20animated/f/b8.webp",
+  "emojis": [
+    "😍",
+    "💑"
+  ]
+},
+        {
+  "image_file": "https://proreskin9.github.io/server/stickers%20romantic%20animated/f/b9.webp",
+  "emojis": [
+    "😆",
+    "😂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/stickers%20romantic%20animated/f/b10.webp",
+  "emojis": [
+    "😩",
+    "😰"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/stickers%20romantic%20animated/f/b11.webp",
+  "emojis": [
+    "😭",
+    "💧"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/stickers%20romantic%20animated/f/b12.webp",
+  "emojis": [
+    "😍",
+    "♥"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/stickers%20romantic%20animated/f/b13.webp",
+  "emojis": [
+    "💔",
+    "👎"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/stickers%20romantic%20animated/f/b14.webp",
+  "emojis": [
+    "😍",
+    "💑"
+  ]
+},
+{
+"image_file": "https://proreskin9.github.io/server/stickers%20romantic%20animated/f/b15.webp",
+"emojis": [
+"😆",
+"😂"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/stickers%20romantic%20animated/f/b16.webp",
+"emojis": [
+"😩",
+"😰"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/stickers%20romantic%20animated/f/b17.webp",
+"emojis": [
+"😭",
+"💧"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/stickers%20romantic%20animated/f/b18.webp",
+"emojis": [
+"😍",
+"♥"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/stickers%20romantic%20animated/f/b19.webp",
+"emojis": [
+"💔",
+"👎"
+]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/stickers%20romantic%20animated/f/b20.webp",
+  "emojis": [
+    "😡",
+    "😠"
+  ]
+}
+]
+},
+
         {
       "identifier": "2",
       "name": "love",
