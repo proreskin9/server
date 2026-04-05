@@ -3,6 +3,1567 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+"identifier": "m21",
+"name": "heart",
+"publisher": "devlados",
+"tray_image_file": "https://proreskin9.github.io/server/romanticanimated/m21/tray.png",
+"image_data_version": "1",
+"avoid_cache": false,
+"publisher_email": "",
+"category": "heart",
+"publisher_website": "",
+"privacy_policy_website": "",
+"animated_sticker_pack": true,
+"license_agreement_website": "",
+"stickers": [
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b1.webp",
+  "emojis": [
+    "☕",
+    "🙂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b2.webp",
+  "emojis": [
+    "😄",
+    "😀"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b3.webp",
+  "emojis": [
+    "😆",
+    "😂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b4.webp",
+  "emojis": [
+    "😩",
+    "😰"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b5.webp",
+  "emojis": [
+    "😭",
+    "💧"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b6.webp",
+  "emojis": [
+    "😍",
+    "♥"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b7.webp",
+  "emojis": [
+    "💔",
+    "👎"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b8.webp",
+  "emojis": [
+    "😍",
+    "💑"
+  ]
+},
+        {
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b9.webp",
+  "emojis": [
+    "😆",
+    "😂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b10.webp",
+  "emojis": [
+    "😩",
+    "😰"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b11.webp",
+  "emojis": [
+    "😭",
+    "💧"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b12.webp",
+  "emojis": [
+    "😍",
+    "♥"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b13.webp",
+  "emojis": [
+    "💔",
+    "👎"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b14.webp",
+  "emojis": [
+    "😍",
+    "💑"
+  ]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b15.webp",
+"emojis": [
+"😆",
+"😂"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b16.webp",
+"emojis": [
+"😩",
+"😰"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b17.webp",
+"emojis": [
+"😭",
+"💧"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b18.webp",
+"emojis": [
+"😍",
+"♥"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b19.webp",
+"emojis": [
+"💔",
+"👎"
+]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b20.webp",
+  "emojis": [
+    "😡",
+    "😠"
+  ]
+}
+]
+},
+{
+"identifier": "m22",
+"name": "heart 2",
+"publisher": "devlados",
+"tray_image_file": "https://proreskin9.github.io/server/romanticanimated/m22/tray.png",
+"image_data_version": "1",
+"avoid_cache": false,
+"publisher_email": "",
+"category": "heart",
+"publisher_website": "",
+"privacy_policy_website": "",
+"animated_sticker_pack": true,
+"license_agreement_website": "",
+"stickers": [
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m22/b1.webp",
+  "emojis": [
+    "☕",
+    "🙂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m22/b2.webp",
+  "emojis": [
+    "😄",
+    "😀"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m22/b3.webp",
+  "emojis": [
+    "😆",
+    "😂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m22/b4.webp",
+  "emojis": [
+    "😩",
+    "😰"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m22/b5.webp",
+  "emojis": [
+    "😭",
+    "💧"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m22/b6.webp",
+  "emojis": [
+    "😍",
+    "♥"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m22/b7.webp",
+  "emojis": [
+    "💔",
+    "👎"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m22/b8.webp",
+  "emojis": [
+    "😍",
+    "💑"
+  ]
+},
+        {
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m22/b9.webp",
+  "emojis": [
+    "😆",
+    "😂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m22/b10.webp",
+  "emojis": [
+    "😩",
+    "😰"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m22/b11.webp",
+  "emojis": [
+    "😭",
+    "💧"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m22/b12.webp",
+  "emojis": [
+    "😍",
+    "♥"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m22/b13.webp",
+  "emojis": [
+    "💔",
+    "👎"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m22/b14.webp",
+  "emojis": [
+    "😍",
+    "💑"
+  ]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m22/b15.webp",
+"emojis": [
+"😆",
+"😂"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m22/b16.webp",
+"emojis": [
+"😩",
+"😰"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m22/b17.webp",
+"emojis": [
+"😭",
+"💧"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m22/b18.webp",
+"emojis": [
+"😍",
+"♥"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m22/b19.webp",
+"emojis": [
+"💔",
+"👎"
+]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m22/b20.webp",
+  "emojis": [
+    "😡",
+    "😠"
+  ]
+}
+]
+},
+{
+"identifier": "m23",
+"name": "emoji 8",
+"publisher": "devlados",
+"tray_image_file": "https://proreskin9.github.io/server/romanticanimated/m23/tray.png",
+"image_data_version": "1",
+"avoid_cache": false,
+"publisher_email": "",
+"category": "emoji",
+"publisher_website": "",
+"privacy_policy_website": "",
+"animated_sticker_pack": true,
+"license_agreement_website": "",
+"stickers": [
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m23/b1.webp",
+  "emojis": [
+    "☕",
+    "🙂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m23/b2.webp",
+  "emojis": [
+    "😄",
+    "😀"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m23/b3.webp",
+  "emojis": [
+    "😆",
+    "😂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m23/b4.webp",
+  "emojis": [
+    "😩",
+    "😰"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m23/b5.webp",
+  "emojis": [
+    "😭",
+    "💧"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m23/b6.webp",
+  "emojis": [
+    "😍",
+    "♥"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m23/b7.webp",
+  "emojis": [
+    "💔",
+    "👎"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m23/b8.webp",
+  "emojis": [
+    "😍",
+    "💑"
+  ]
+},
+        {
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m23/b9.webp",
+  "emojis": [
+    "😆",
+    "😂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m23/b10.webp",
+  "emojis": [
+    "😩",
+    "😰"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m23/b11.webp",
+  "emojis": [
+    "😭",
+    "💧"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m23/b12.webp",
+  "emojis": [
+    "😍",
+    "♥"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m23/b13.webp",
+  "emojis": [
+    "💔",
+    "👎"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m23/b14.webp",
+  "emojis": [
+    "😍",
+    "💑"
+  ]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m23/b15.webp",
+"emojis": [
+"😆",
+"😂"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m23/b16.webp",
+"emojis": [
+"😩",
+"😰"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m23/b17.webp",
+"emojis": [
+"😭",
+"💧"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m23/b18.webp",
+"emojis": [
+"😍",
+"♥"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m23/b19.webp",
+"emojis": [
+"💔",
+"👎"
+]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m23/b20.webp",
+  "emojis": [
+    "😡",
+    "😠"
+  ]
+}
+]
+},
+{
+"identifier": "m24",
+"name": "love 7",
+"publisher": "devlados",
+"tray_image_file": "https://proreskin9.github.io/server/romanticanimated/m24/tray.png",
+"image_data_version": "1",
+"avoid_cache": false,
+"publisher_email": "",
+"category": "love",
+"publisher_website": "",
+"privacy_policy_website": "",
+"animated_sticker_pack": true,
+"license_agreement_website": "",
+"stickers": [
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m24/b1.webp",
+  "emojis": [
+    "☕",
+    "🙂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m24/b2.webp",
+  "emojis": [
+    "😄",
+    "😀"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m24/b3.webp",
+  "emojis": [
+    "😆",
+    "😂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m24/b4.webp",
+  "emojis": [
+    "😩",
+    "😰"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m24/b5.webp",
+  "emojis": [
+    "😭",
+    "💧"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m24/b6.webp",
+  "emojis": [
+    "😍",
+    "♥"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m24/b7.webp",
+  "emojis": [
+    "💔",
+    "👎"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m24/b8.webp",
+  "emojis": [
+    "😍",
+    "💑"
+  ]
+},
+        {
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m24/b9.webp",
+  "emojis": [
+    "😆",
+    "😂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m24/b10.webp",
+  "emojis": [
+    "😩",
+    "😰"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m24/b11.webp",
+  "emojis": [
+    "😭",
+    "💧"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m24/b12.webp",
+  "emojis": [
+    "😍",
+    "♥"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m24/b13.webp",
+  "emojis": [
+    "💔",
+    "👎"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m24/b14.webp",
+  "emojis": [
+    "😍",
+    "💑"
+  ]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m24/b15.webp",
+"emojis": [
+"😆",
+"😂"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m24/b16.webp",
+"emojis": [
+"😩",
+"😰"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m24/b17.webp",
+"emojis": [
+"😭",
+"💧"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m24/b18.webp",
+"emojis": [
+"😍",
+"♥"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m24/b19.webp",
+"emojis": [
+"💔",
+"👎"
+]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m24/b20.webp",
+  "emojis": [
+    "😡",
+    "😠"
+  ]
+}
+]
+},
+{
+"identifier": "m25",
+"name": "love 8",
+"publisher": "devlados",
+"tray_image_file": "https://proreskin9.github.io/server/romanticanimated/m25/tray.png",
+"image_data_version": "1",
+"avoid_cache": false,
+"publisher_email": "",
+"category": "love",
+"publisher_website": "",
+"privacy_policy_website": "",
+"animated_sticker_pack": true,
+"license_agreement_website": "",
+"stickers": [
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m25/b1.webp",
+  "emojis": [
+    "☕",
+    "🙂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m25/b2.webp",
+  "emojis": [
+    "😄",
+    "😀"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m25/b3.webp",
+  "emojis": [
+    "😆",
+    "😂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m25/b4.webp",
+  "emojis": [
+    "😩",
+    "😰"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m25/b5.webp",
+  "emojis": [
+    "😭",
+    "💧"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m25/b6.webp",
+  "emojis": [
+    "😍",
+    "♥"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m25/b7.webp",
+  "emojis": [
+    "💔",
+    "👎"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m25/b8.webp",
+  "emojis": [
+    "😍",
+    "💑"
+  ]
+},
+        {
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m25/b9.webp",
+  "emojis": [
+    "😆",
+    "😂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m25/b10.webp",
+  "emojis": [
+    "😩",
+    "😰"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m25/b11.webp",
+  "emojis": [
+    "😭",
+    "💧"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m25/b12.webp",
+  "emojis": [
+    "😍",
+    "♥"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m25/b13.webp",
+  "emojis": [
+    "💔",
+    "👎"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m25/b14.webp",
+  "emojis": [
+    "😍",
+    "💑"
+  ]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m25/b15.webp",
+"emojis": [
+"😆",
+"😂"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m25/b16.webp",
+"emojis": [
+"😩",
+"😰"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m25/b17.webp",
+"emojis": [
+"😭",
+"💧"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m25/b18.webp",
+"emojis": [
+"😍",
+"♥"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m25/b19.webp",
+"emojis": [
+"💔",
+"👎"
+]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m25/b20.webp",
+  "emojis": [
+    "😡",
+    "😠"
+  ]
+}
+]
+},
+{
+"identifier": "m26",
+"name": "heart 4",
+"publisher": "devlados",
+"tray_image_file": "https://proreskin9.github.io/server/romanticanimated/m26/tray.png",
+"image_data_version": "1",
+"avoid_cache": false,
+"publisher_email": "",
+"category": "heart",
+"publisher_website": "",
+"privacy_policy_website": "",
+"animated_sticker_pack": true,
+"license_agreement_website": "",
+"stickers": [
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m26/b1.webp",
+  "emojis": [
+    "☕",
+    "🙂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m26/b2.webp",
+  "emojis": [
+    "😄",
+    "😀"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m26/b3.webp",
+  "emojis": [
+    "😆",
+    "😂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m26/b4.webp",
+  "emojis": [
+    "😩",
+    "😰"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m26/b5.webp",
+  "emojis": [
+    "😭",
+    "💧"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m26/b6.webp",
+  "emojis": [
+    "😍",
+    "♥"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m26/b7.webp",
+  "emojis": [
+    "💔",
+    "👎"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m26/b8.webp",
+  "emojis": [
+    "😍",
+    "💑"
+  ]
+},
+        {
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m26/b9.webp",
+  "emojis": [
+    "😆",
+    "😂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m26/b10.webp",
+  "emojis": [
+    "😩",
+    "😰"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m26/b11.webp",
+  "emojis": [
+    "😭",
+    "💧"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m26/b12.webp",
+  "emojis": [
+    "😍",
+    "♥"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m26/b13.webp",
+  "emojis": [
+    "💔",
+    "👎"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m26/b14.webp",
+  "emojis": [
+    "😍",
+    "💑"
+  ]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m26/b15.webp",
+"emojis": [
+"😆",
+"😂"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m26/b16.webp",
+"emojis": [
+"😩",
+"😰"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m26/b17.webp",
+"emojis": [
+"😭",
+"💧"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m26/b18.webp",
+"emojis": [
+"😍",
+"♥"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m26/b19.webp",
+"emojis": [
+"💔",
+"👎"
+]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m26/b20.webp",
+  "emojis": [
+    "😡",
+    "😠"
+  ]
+}
+]
+},
+{
+"identifier": "m27",
+"name": "kiss",
+"publisher": "devlados",
+"tray_image_file": "https://proreskin9.github.io/server/romanticanimated/m27/tray.png",
+"image_data_version": "1",
+"avoid_cache": false,
+"publisher_email": "",
+"category": "kiss",
+"publisher_website": "",
+"privacy_policy_website": "",
+"animated_sticker_pack": true,
+"license_agreement_website": "",
+"stickers": [
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m27/b1.webp",
+  "emojis": [
+    "☕",
+    "🙂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m27/b2.webp",
+  "emojis": [
+    "😄",
+    "😀"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m27/b3.webp",
+  "emojis": [
+    "😆",
+    "😂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m27/b4.webp",
+  "emojis": [
+    "😩",
+    "😰"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m27/b5.webp",
+  "emojis": [
+    "😭",
+    "💧"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m27/b6.webp",
+  "emojis": [
+    "😍",
+    "♥"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m27/b7.webp",
+  "emojis": [
+    "💔",
+    "👎"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m27/b8.webp",
+  "emojis": [
+    "😍",
+    "💑"
+  ]
+},
+        {
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m27/b9.webp",
+  "emojis": [
+    "😆",
+    "😂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m27/b10.webp",
+  "emojis": [
+    "😩",
+    "😰"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m27/b11.webp",
+  "emojis": [
+    "😭",
+    "💧"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m27/b12.webp",
+  "emojis": [
+    "😍",
+    "♥"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m27/b13.webp",
+  "emojis": [
+    "💔",
+    "👎"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m27/b14.webp",
+  "emojis": [
+    "😍",
+    "💑"
+  ]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m27/b15.webp",
+"emojis": [
+"😆",
+"😂"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m27/b16.webp",
+"emojis": [
+"😩",
+"😰"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m27/b17.webp",
+"emojis": [
+"😭",
+"💧"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m27/b18.webp",
+"emojis": [
+"😍",
+"♥"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m27/b19.webp",
+"emojis": [
+"💔",
+"👎"
+]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m27/b20.webp",
+  "emojis": [
+    "😡",
+    "😠"
+  ]
+}
+]
+},
+{
+"identifier": "m28",
+"name": "love 8",
+"publisher": "devlados",
+"tray_image_file": "https://proreskin9.github.io/server/romanticanimated/m28/tray.png",
+"image_data_version": "1",
+"avoid_cache": false,
+"publisher_email": "",
+"category": "love",
+"publisher_website": "",
+"privacy_policy_website": "",
+"animated_sticker_pack": true,
+"license_agreement_website": "",
+"stickers": [
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m28/b1.webp",
+  "emojis": [
+    "☕",
+    "🙂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m28/b2.webp",
+  "emojis": [
+    "😄",
+    "😀"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m28/b3.webp",
+  "emojis": [
+    "😆",
+    "😂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m28/b4.webp",
+  "emojis": [
+    "😩",
+    "😰"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m28/b5.webp",
+  "emojis": [
+    "😭",
+    "💧"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m28/b6.webp",
+  "emojis": [
+    "😍",
+    "♥"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m28/b7.webp",
+  "emojis": [
+    "💔",
+    "👎"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m28/b8.webp",
+  "emojis": [
+    "😍",
+    "💑"
+  ]
+},
+        {
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m28/b9.webp",
+  "emojis": [
+    "😆",
+    "😂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m28/b10.webp",
+  "emojis": [
+    "😩",
+    "😰"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m28/b11.webp",
+  "emojis": [
+    "😭",
+    "💧"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m28/b12.webp",
+  "emojis": [
+    "😍",
+    "♥"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m28/b13.webp",
+  "emojis": [
+    "💔",
+    "👎"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m28/b14.webp",
+  "emojis": [
+    "😍",
+    "💑"
+  ]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m28/b15.webp",
+"emojis": [
+"😆",
+"😂"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m28/b16.webp",
+"emojis": [
+"😩",
+"😰"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m28/b17.webp",
+"emojis": [
+"😭",
+"💧"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m28/b18.webp",
+"emojis": [
+"😍",
+"♥"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m28/b19.webp",
+"emojis": [
+"💔",
+"👎"
+]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m28/b20.webp",
+  "emojis": [
+    "😡",
+    "😠"
+  ]
+}
+]
+},
+{
+"identifier": "m29",
+"name": "love 9",
+"publisher": "devlados",
+"tray_image_file": "https://proreskin9.github.io/server/romanticanimated/m29/tray.png",
+"image_data_version": "1",
+"avoid_cache": false,
+"publisher_email": "",
+"category": "love",
+"publisher_website": "",
+"privacy_policy_website": "",
+"animated_sticker_pack": true,
+"license_agreement_website": "",
+"stickers": [
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m29/b1.webp",
+  "emojis": [
+    "☕",
+    "🙂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m29/b2.webp",
+  "emojis": [
+    "😄",
+    "😀"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m29/b3.webp",
+  "emojis": [
+    "😆",
+    "😂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m29/b4.webp",
+  "emojis": [
+    "😩",
+    "😰"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m29/b5.webp",
+  "emojis": [
+    "😭",
+    "💧"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m29/b6.webp",
+  "emojis": [
+    "😍",
+    "♥"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m29/b7.webp",
+  "emojis": [
+    "💔",
+    "👎"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m29/b8.webp",
+  "emojis": [
+    "😍",
+    "💑"
+  ]
+},
+        {
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m29/b9.webp",
+  "emojis": [
+    "😆",
+    "😂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m29/b10.webp",
+  "emojis": [
+    "😩",
+    "😰"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m29/b11.webp",
+  "emojis": [
+    "😭",
+    "💧"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m29/b12.webp",
+  "emojis": [
+    "😍",
+    "♥"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m29/b13.webp",
+  "emojis": [
+    "💔",
+    "👎"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m29/b14.webp",
+  "emojis": [
+    "😍",
+    "💑"
+  ]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m29/b15.webp",
+"emojis": [
+"😆",
+"😂"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m29/b16.webp",
+"emojis": [
+"😩",
+"😰"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m29/b17.webp",
+"emojis": [
+"😭",
+"💧"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m29/b18.webp",
+"emojis": [
+"😍",
+"♥"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m29/b19.webp",
+"emojis": [
+"💔",
+"👎"
+]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m29/b20.webp",
+  "emojis": [
+    "😡",
+    "😠"
+  ]
+}
+]
+},
+{
+"identifier": "m30",
+"name": "love 10",
+"publisher": "devlados",
+"tray_image_file": "https://proreskin9.github.io/server/romanticanimated/m30/tray.png",
+"image_data_version": "1",
+"avoid_cache": false,
+"publisher_email": "",
+"category": "love",
+"publisher_website": "",
+"privacy_policy_website": "",
+"animated_sticker_pack": true,
+"license_agreement_website": "",
+"stickers": [
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m30/b1.webp",
+  "emojis": [
+    "☕",
+    "🙂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m30/b2.webp",
+  "emojis": [
+    "😄",
+    "😀"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m30/b3.webp",
+  "emojis": [
+    "😆",
+    "😂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m30/b4.webp",
+  "emojis": [
+    "😩",
+    "😰"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m30/b5.webp",
+  "emojis": [
+    "😭",
+    "💧"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m30/b6.webp",
+  "emojis": [
+    "😍",
+    "♥"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m30/b7.webp",
+  "emojis": [
+    "💔",
+    "👎"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m30/b8.webp",
+  "emojis": [
+    "😍",
+    "💑"
+  ]
+},
+        {
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m30/b9.webp",
+  "emojis": [
+    "😆",
+    "😂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m30/b10.webp",
+  "emojis": [
+    "😩",
+    "😰"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m30/b11.webp",
+  "emojis": [
+    "😭",
+    "💧"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m30/b12.webp",
+  "emojis": [
+    "😍",
+    "♥"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m30/b13.webp",
+  "emojis": [
+    "💔",
+    "👎"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m30/b14.webp",
+  "emojis": [
+    "😍",
+    "💑"
+  ]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m30/b15.webp",
+"emojis": [
+"😆",
+"😂"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m30/b16.webp",
+"emojis": [
+"😩",
+"😰"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m30/b17.webp",
+"emojis": [
+"😭",
+"💧"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m30/b18.webp",
+"emojis": [
+"😍",
+"♥"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m30/b19.webp",
+"emojis": [
+"💔",
+"👎"
+]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m30/b20.webp",
+  "emojis": [
+    "😡",
+    "😠"
+  ]
+}
+]
+},
+
+    {
       "identifier": "1",
       "name": "emoji",
       "publisher": "devlados",
