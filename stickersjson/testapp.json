@@ -1,0 +1,73 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.nailsart.salonnail.nailssalon",
+  "ios_app_store_link": "",
+  
+  "featured_slider": [
+    {
+      "id": 1,
+      "title": "ملصقات تعبيرية جديدة",
+      "description": "عبر عن مشاعرك بأحدث الملصقات الحيوية.",
+      "image_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+      "id": 2,
+      "title": "خلفيات فخمة",
+      "description": "أفضل الخلفيات بجودة عالية لهاتفك.",
+      "image_url": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=1000&auto=format&fit=crop"
+    }
+  ],
+
+  "sticker_packs": [
+    {
+      "identifier": "20",
+      "name": "emoji7",
+      "publisher": "devlados",
+      "tray_image_file": "https://proreskin9.github.io/server/romanticanimated/20/b7.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "category": "emoji",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/20/b1.webp", "emojis": ["☕", "🙂"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/20/b2.webp", "emojis": ["😄", "😀"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/20/b3.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/20/b7.webp", "emojis": ["💔", "👎"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/20/b20.webp", "emojis": ["😡", "😠"] }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "flower3",
+      "publisher": "devlados",
+      "tray_image_file": "https://proreskin9.github.io/server/romanticanimated/3/c6.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "category": "flowers",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/3/c1.webp", "emojis": ["☕", "🙂"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/3/c2.webp", "emojis": ["😄", "😀"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/3/c15.webp", "emojis": ["🔋", "😵"] }
+      ]
+    }
+  ],
+
+  "wallpapers": [
+    {
+      "id": "w_001",
+      "title": "ألوان مجردة",
+      "image_url": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+      "id": "w_002",
+      "title": "قمة الجبل",
+      "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1000&auto=format&fit=crop"
+    }
+  ]
+}
