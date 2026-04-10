@@ -1,73 +1,99 @@
 {
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.nailsart.salonnail.nailssalon",
   "ios_app_store_link": "",
-  
-  "featured_slider": [
-    {
-      "id": 1,
-      "title": "ملصقات تعبيرية جديدة",
-      "description": "عبر عن مشاعرك بأحدث الملصقات الحيوية.",
-      "image_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
-    },
-    {
-      "id": 2,
-      "title": "خلفيات فخمة",
-      "description": "أفضل الخلفيات بجودة عالية لهاتفك.",
-      "image_url": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=1000&auto=format&fit=crop"
-    }
-  ],
-
   "sticker_packs": [
     {
-      "identifier": "20",
-      "name": "emoji7",
+      "identifier": "m62",
+      "name": "couple 33",
       "publisher": "devlados",
-      "tray_image_file": "https://proreskin9.github.io/server/romanticanimated/20/b7.webp",
+      "tray_image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b7.webp",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "",
-      "category": "emoji",
+      "category": "couple💑",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
-        { "image_file": "https://proreskin9.github.io/server/romanticanimated/20/b1.webp", "emojis": ["☕", "🙂"] },
-        { "image_file": "https://proreskin9.github.io/server/romanticanimated/20/b2.webp", "emojis": ["😄", "😀"] },
-        { "image_file": "https://proreskin9.github.io/server/romanticanimated/20/b3.webp", "emojis": ["😆", "😂"] },
-        { "image_file": "https://proreskin9.github.io/server/romanticanimated/20/b7.webp", "emojis": ["💔", "👎"] },
-        { "image_file": "https://proreskin9.github.io/server/romanticanimated/20/b20.webp", "emojis": ["😡", "😠"] }
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b1.webp", "emojis": ["☕", "🙂"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b2.webp", "emojis": ["😄", "😀"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b3.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b4.webp", "emojis": ["😩", "😰"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b5.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b6.webp", "emojis": ["😍", "♥"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b7.webp", "emojis": ["💔", "👎"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b8.webp", "emojis": ["😍", "💑"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b9.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b10.webp", "emojis": ["😩", "😰"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b11.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b12.webp", "emojis": ["😍", "♥"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b13.webp", "emojis": ["💔", "👎"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b14.webp", "emojis": ["😍", "💑"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b15.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b16.webp", "emojis": ["😩", "😰"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b17.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b18.webp", "emojis": ["😍", "♥"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b19.webp", "emojis": ["💔", "👎"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b20.webp", "emojis": ["😡", "😠"] }
       ]
     },
     {
-      "identifier": "3",
-      "name": "flower3",
+      "identifier": "m61",
+      "name": "couple 32",
       "publisher": "devlados",
-      "tray_image_file": "https://proreskin9.github.io/server/romanticanimated/3/c6.webp",
+      "tray_image_file": "https://proreskin9.github.io/server/romanticanimated/m61/b7.webp",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "",
-      "category": "flowers",
+      "category": "couple💑",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
-        { "image_file": "https://proreskin9.github.io/server/romanticanimated/3/c1.webp", "emojis": ["☕", "🙂"] },
-        { "image_file": "https://proreskin9.github.io/server/romanticanimated/3/c2.webp", "emojis": ["😄", "😀"] },
-        { "image_file": "https://proreskin9.github.io/server/romanticanimated/3/c15.webp", "emojis": ["🔋", "😵"] }
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m61/b1.webp", "emojis": ["☕", "🙂"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m61/b2.webp", "emojis": ["😄", "😀"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m61/b3.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m61/b4.webp", "emojis": ["😩", "😰"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m61/b5.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m61/b6.webp", "emojis": ["😍", "♥"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m61/b7.webp", "emojis": ["💔", "👎"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m61/b8.webp", "emojis": ["😍", "💑"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m61/b9.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m61/b10.webp", "emojis": ["😩", "😰"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m61/b11.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m61/b12.webp", "emojis": ["😍", "♥"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m61/b13.webp", "emojis": ["💔", "👎"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m61/b14.webp", "emojis": ["😍", "💑"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m61/b15.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m61/b16.webp", "emojis": ["😩", "😰"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m61/b17.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m61/b18.webp", "emojis": ["😍", "♥"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m61/b19.webp", "emojis": ["💔", "👎"] },
+        { "image_file": "https://proreskin9.github.io/server/romanticanimated/m61/b20.webp", "emojis": ["😡", "😠"] }
       ]
+    },
+    {
+      "identifier": "pack1",
+      "name": "Romantic Stickers",
+      "category": "Love",
+      "stickers": []
     }
   ],
-
   "wallpapers": [
     {
-      "id": "w_001",
-      "title": "ألوان مجردة",
-      "image_url": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=1000&auto=format&fit=crop"
+      "url": "https://example.com/nature1.jpg",
+      "thumbnail": "https://example.com/thumb_nature1.jpg",
+      "category": "Nature"
     },
     {
-      "id": "w_002",
-      "title": "قمة الجبل",
-      "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1000&auto=format&fit=crop"
+      "url": "https://example.com/love1.jpg",
+      "thumbnail": "https://example.com/thumb_love1.jpg",
+      "category": "Love"
+    },
+    {
+      "url": "https://example.com/dark1.jpg",
+      "thumbnail": "https://example.com/thumb_dark1.jpg",
+      "category": "Dark"
     }
   ]
 }
