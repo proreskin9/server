@@ -355,19 +355,35 @@
   ],
   "wallpapers": [
     {
-      "url": "https://www.freepik.com/free-photo/wet-monstera-plant-leaves-mobile-wallpaper_19101078.htm#fromView=keyword&page=1&position=0&uuid=155b6944-fcb1-4e31-a9e9-94a980a28b6c&query=Nature+phone+wallpaper",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPdtv83veqZ0RvKc4EiBgsKKtX6VvZ90hZVkq0AwONHxiENBf-PMqQsTT5BiGsZoWqNIS6b5uNA54WNEPfHcDdy3F-58bMebIv4EHLvQDN0P-SbJyL9gvpLDXo0p-bsdh9Y6Ga7gms8DY2/s1600/nature_landscape.jpg",
-      "category": "Nature"
+      "category": "Nature",
+      "thumbnail": "https://proreskin9.github.io/server/roated/thumbs/nature_thumb.jpg",
+      "url": [
+        "https://example.com/nature1.jpg",
+        "https://example.com/nature2.jpg",
+        "https://example.com/nature3.jpg",
+        "https://example.com/nature4.jpg"
+      ]
+    },
+     {
+      "category": "Love",
+      "thumbnail": "https://proreskin9.github.io/server/roated/thumbs/love_thumb.jpg",
+      "url": [
+        "https://example.com/love1.jpg",
+        "https://example.com/love2.jpg",
+        "https://example.com/love3.jpg"
+      ]
     },
     {
-      "url": "https://example.com/love1.jpg",
-      "thumbnail": "https://example.com/thumb_love1.jpg",
-      "category": "Love"
+      "category": "Dark",
+      "thumbnail": "https://proreskin9.github.io/server/roated/thumbs/dark_thumb.jpg",
+      "url": [
+        "https://example.com/dark1.jpg",
+        "https://example.com/dark2.jpg"
+      ]
     },
     {
-      "url": "https://example.com/dark1.jpg",
-      "thumbnail": "https://example.com/thumb_dark1.jpg",
-      "category": "Dark"
+      "category": "Single Image",
+      "url": "https://example.com/one_image.jpg"
     }
   ]
 }
