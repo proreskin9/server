@@ -1,0 +1,25 @@
+{
+  "wallpapers": [
+    {
+      "category": "Nature",
+      "thumbnail": "https://example.com/nature_thumb.jpg",
+      "url": [
+        "https://example.com/nature1.jpg",
+        "https://example.com/nature2.jpg",
+        "https://example.com/nature3.jpg"
+      ]
+    },
+    {
+      "category": "Dark",
+      "thumbnail": "https://example.com/dark_thumb.jpg",
+      "url": [
+        "https://example.com/dark1.jpg",
+        "https://example.com/dark2.jpg"
+      ]
+    },
+    {
+      "category": "Love",
+      "url": "https://example.com/love_single.jpg"
+    }
+  ]
+}
