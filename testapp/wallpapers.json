@@ -1,13 +1,13 @@
 {
   "wallpapers": [
     {"category": "Nature",
-      "thumbnail": "https://proreskin9.github.io/server/roated/thumbs/nature_main.jpg",
+      "thumbnail": "https://i.pinimg.com/736x/02/3d/ce/023dced469c3f94f45f121f91a963b8b.jpg",
       "url": [
-        "https://proreskin9.github.io/server/roated/images/nature1.jpg",
-        "https://proreskin9.github.io/server/roated/images/nature2.jpg",
-        "https://proreskin9.github.io/server/roated/images/nature3.jpg",
-        "https://proreskin9.github.io/server/roated/images/nature4.jpg",
-        "https://proreskin9.github.io/server/roated/images/nature5.jpg"
+        "https://i0.wp.com/picjumbo.com/wp-content/uploads/sunset-wallpaper-free-image.jpeg?w=2210&quality=70",
+        "https://i0.wp.com/picjumbo.com/wp-content/uploads/sunset-wallpaper-free-image.jpeg?w=2210&quality=70",
+        "https://i0.wp.com/picjumbo.com/wp-content/uploads/sunset-wallpaper-free-image.jpeg?w=2210&quality=70",
+        "https://i.pinimg.com/736x/02/3d/ce/023dced469c3f94f45f121f91a963b8b.jpg",
+        "https://i.pinimg.com/236x/95/2e/2f/952e2f27503253df5b861979e5eaa867.jpg"
       ]
     },
     {
@@ -23,16 +23,16 @@
     },
     {
       "category": "Dark",
-      "thumbnail": "https://proreskin9.github.io/server/roated/thumbs/dark_main.jpg",
+      "thumbnail": "https://i.pinimg.com/236x/e2/ed/56/e2ed56d46f8701c2e14e286ce71952b1.jpg",
       "url": [
-        "https://proreskin9.github.io/server/roated/images/dark1.jpg",
-        "https://proreskin9.github.io/server/roated/images/dark2.jpg",
-        "https://proreskin9.github.io/server/roated/images/dark3.jpg"
+        "https://i.pinimg.com/236x/e2/ed/56/e2ed56d46f8701c2e14e286ce71952b1.jpg",
+        "https://i.pinimg.com/236x/20/a7/db/20a7db6335e7037d4ac8d7a7cccd6eed.jpg",
+        "https://i.pinimg.com/236x/20/a7/db/20a7db6335e7037d4ac8d7a7cccd6eed.jpg"
       ]
     },
     {
       "category": "Single View",
-      "url": "https://proreskin9.github.io/server/roated/images/special_bg.jpg"
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb1jMrqj3j3lOcqO7e7p0JiBzNPsBtLhrXxQ&s"
     }
   ]
 }
