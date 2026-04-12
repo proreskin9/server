@@ -2,7 +2,7 @@
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.nailsart.salonnail.nailssalon",
   "ios_app_store_link": "",
   "sticker_packs": [
-    {
+ {
 "identifier": "m21",
 "name": "heart",
 "publisher": "devlados",
@@ -472,24 +472,24 @@
   "wallpapers": [
     {
       "category": "Nature",
-      "thumbnail": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+      "thumbnail": "https://wallpaperaccess.com/full/1208284.jpg",
       "url": [
-        "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "https://images.pexels.com/photos/3408744/pexels-photo-3408744.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "https://i.pinimg.com/736x/3a/aa/aa/3aaaaab75595302bf57592b4fc699b8b.jpg",
+        "https://r1.ilikewallpaper.net/iphone-wallpapers/download/77636/Maldives-iphone-wallpaper-ilikewallpaper_com_640.jpg"
       ]
     },
     {
       "category": "Dark",
-      "thumbnail": "https://images.pexels.com/photos/1054218/pexels-photo-1054218.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "thumbnail": "https://cdn.wallpapersafari.com/25/82/DQUdwz.jpg",
       "url": [
-        "https://images.pexels.com/photos/1054218/pexels-photo-1054218.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "https://images.pexels.com/photos/1933316/pexels-photo-1933316.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "https://cdn.dribbble.com/userupload/10619259/file/original-2092e7963a9052d637e726a7dacc22ac.jpg",
+        "https://w0.peakpx.com/wallpaper/654/108/HD-wallpaper-sauce-pls-anti-spiral-thumbnail.jpg"
       ]
     },
     {
       "category": "Love",
-      "thumbnail": "https://images.pexels.com/photos/1024960/pexels-photo-1024960.jpeg?auto=compress&cs=tinysrgb&w=400",
-      "url": "https://images.pexels.com/photos/1024960/pexels-photo-1024960.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "thumbnail": "https://media.idownloadblog.com/wp-content/uploads/2018/08/iPhone-XS-marketing-wallpaper.jpg",
+      "url": "https://i.pinimg.com/564x/9d/c5/01/9dc5010ec6e0741a968e82dda0a5e0cf.jpg"
     }
   ]
 }
