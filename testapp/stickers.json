@@ -1,5 +1,6 @@
 {
-  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.stickersmaroc.hamadamamoune.hamado",
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.nailsart.salonnail.nailssalon",
+  "ios_app_store_link": "",
   "sticker_packs": [
     {
 "identifier": "m21",
@@ -83,78 +84,9 @@
   "emojis": [
     "😩",
     "😰"
-  ]
-},
-{
-  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b11.webp",
-  "emojis": [
-    "😭",
-    "💧"
-  ]
-},
-{
-  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b12.webp",
-  "emojis": [
-    "😍",
-    "♥"
-  ]
-},
-{
-  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b13.webp",
-  "emojis": [
-    "💔",
-    "👎"
-  ]
-},
-{
-  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b14.webp",
-  "emojis": [
-    "😍",
-    "💑"
-  ]
-},
-{
-"image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b15.webp",
-"emojis": [
-"😆",
-"😂"
-]
-},
-{
-"image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b16.webp",
-"emojis": [
-"😩",
-"😰"
-]
-},
-{
-"image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b17.webp",
-"emojis": [
-"😭",
-"💧"
-]
-},
-{
-"image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b18.webp",
-"emojis": [
-"😍",
-"♥"
-]
-},
-{
-"image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b19.webp",
-"emojis": [
-"💔",
-"👎"
-]
-},
-{
-  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b20.webp",
-  "emojis": [
-    "😡",
-    "😠"
-  ]
-}
+        }
+      ]
+    }
   ],
  "wallpapers": [
     {"category": "Nature",
