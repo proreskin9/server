@@ -1,38 +1,64 @@
 {
-  "wallpapers": [
-    {"category": "Nature",
-      "thumbnail": "https://i.pinimg.com/736x/02/3d/ce/023dced469c3f94f45f121f91a963b8b.jpg",
-      "url": [
-        "https://i0.wp.com/picjumbo.com/wp-content/uploads/sunset-wallpaper-free-image.jpeg?w=2210&quality=70",
-        "https://i0.wp.com/picjumbo.com/wp-content/uploads/sunset-wallpaper-free-image.jpeg?w=2210&quality=70",
-        "https://i0.wp.com/picjumbo.com/wp-content/uploads/sunset-wallpaper-free-image.jpeg?w=2210&quality=70",
-        "https://i.pinimg.com/736x/02/3d/ce/023dced469c3f94f45f121f91a963b8b.jpg",
-        "https://i.pinimg.com/236x/95/2e/2f/952e2f27503253df5b861979e5eaa867.jpg"
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.stickersmaroc.hamadamamoune.hamado",
+  "sticker_packs": [
+    {
+      "identifier": "pack_1",
+      "name": "Hamada Funny",
+      "publisher": "ProReskin",
+      "category": "Funny",
+      "tray_image_file": "tray.png",
+      "stickers": [
+        {"image_file": "01.webp", "emojis": ["😂"]},
+        {"image_file": "02.webp", "emojis": ["🤣"]},
+        {"image_file": "03.webp", "emojis": ["😂"]}
       ]
     },
     {
+      "identifier": "pack_2",
+      "name": "Hamada Love",
+      "publisher": "ProReskin",
       "category": "Love",
-      "thumbnail": "https://proreskin9.github.io/server/roated/thumbs/love_main.jpg",
+      "tray_image_file": "tray.png",
+      "stickers": [
+        {"image_file": "01.webp", "emojis": ["❤️"]},
+        {"image_file": "02.webp", "emojis": ["😍"]},
+        {"image_file": "03.webp", "emojis": ["😘"]}
+      ]
+    },
+    {
+      "identifier": "pack_3",
+      "name": "Hamada Reaction",
+      "publisher": "ProReskin",
+      "category": "Reaction",
+      "tray_image_file": "tray.png",
+      "stickers": [
+        {"image_file": "01.webp", "emojis": ["😲"]},
+        {"image_file": "02.webp", "emojis": ["🤔"]},
+        {"image_file": "03.webp", "emojis": ["😎"]}
+      ]
+    }
+  ],
+  "wallpapers": [
+    {
+      "category": "Nature",
+      "thumbnail": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
       "url": [
-        "https://proreskin9.github.io/server/roated/images/love1.jpg",
-        "https://proreskin9.github.io/server/roated/images/love2.jpg",
-        "https://proreskin9.github.io/server/roated/images/love3.jpg",
-        "https://proreskin9.github.io/server/roated/images/love4.jpg",
-        "https://proreskin9.github.io/server/roated/images/love5.jpg"
+        "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/3408744/pexels-photo-3408744.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       ]
     },
     {
       "category": "Dark",
-      "thumbnail": "https://i.pinimg.com/236x/e2/ed/56/e2ed56d46f8701c2e14e286ce71952b1.jpg",
+      "thumbnail": "https://images.pexels.com/photos/1054218/pexels-photo-1054218.jpeg?auto=compress&cs=tinysrgb&w=400",
       "url": [
-        "https://i.pinimg.com/236x/e2/ed/56/e2ed56d46f8701c2e14e286ce71952b1.jpg",
-        "https://i.pinimg.com/236x/20/a7/db/20a7db6335e7037d4ac8d7a7cccd6eed.jpg",
-        "https://i.pinimg.com/236x/20/a7/db/20a7db6335e7037d4ac8d7a7cccd6eed.jpg"
+        "https://images.pexels.com/photos/1054218/pexels-photo-1054218.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/1933316/pexels-photo-1933316.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       ]
     },
     {
-      "category": "Single View",
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb1jMrqj3j3lOcqO7e7p0JiBzNPsBtLhrXxQ&s"
+      "category": "Love",
+      "thumbnail": "https://images.pexels.com/photos/1024960/pexels-photo-1024960.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "url": "https://images.pexels.com/photos/1024960/pexels-photo-1024960.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }
   ]
 }
