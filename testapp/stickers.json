@@ -1,25 +1,195 @@
 {
-  "wallpapers": [
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.stickersmaroc.hamadamamoune.hamado",
+  "sticker_packs": [
     {
-      "category": "Nature",
-      "thumbnail": "https://example.com/nature_thumb.jpg",
+"identifier": "m21",
+"name": "heart",
+"publisher": "devlados",
+"tray_image_file": "https://proreskin9.github.io/server/romanticanimated/m21/tray.png",
+"image_data_version": "1",
+"avoid_cache": false,
+"publisher_email": "",
+"category": "heart",
+"publisher_website": "",
+"privacy_policy_website": "",
+"animated_sticker_pack": true,
+"license_agreement_website": "",
+"stickers": [
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b1.webp",
+  "emojis": [
+    "☕",
+    "🙂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b2.webp",
+  "emojis": [
+    "😄",
+    "😀"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b3.webp",
+  "emojis": [
+    "😆",
+    "😂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b4.webp",
+  "emojis": [
+    "😩",
+    "😰"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b5.webp",
+  "emojis": [
+    "😭",
+    "💧"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b6.webp",
+  "emojis": [
+    "😍",
+    "♥"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b7.webp",
+  "emojis": [
+    "💔",
+    "👎"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b8.webp",
+  "emojis": [
+    "😍",
+    "💑"
+  ]
+},
+        {
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b9.webp",
+  "emojis": [
+    "😆",
+    "😂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b10.webp",
+  "emojis": [
+    "😩",
+    "😰"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b11.webp",
+  "emojis": [
+    "😭",
+    "💧"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b12.webp",
+  "emojis": [
+    "😍",
+    "♥"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b13.webp",
+  "emojis": [
+    "💔",
+    "👎"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b14.webp",
+  "emojis": [
+    "😍",
+    "💑"
+  ]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b15.webp",
+"emojis": [
+"😆",
+"😂"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b16.webp",
+"emojis": [
+"😩",
+"😰"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b17.webp",
+"emojis": [
+"😭",
+"💧"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b18.webp",
+"emojis": [
+"😍",
+"♥"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b19.webp",
+"emojis": [
+"💔",
+"👎"
+]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b20.webp",
+  "emojis": [
+    "😡",
+    "😠"
+  ]
+}
+  ],
+ "wallpapers": [
+    {"category": "Nature",
+      "thumbnail": "https://i.pinimg.com/736x/02/3d/ce/023dced469c3f94f45f121f91a963b8b.jpg",
       "url": [
-        "https://example.com/nature1.jpg",
-        "https://example.com/nature2.jpg",
-        "https://example.com/nature3.jpg"
-      ]
-    },
-    {
-      "category": "Dark",
-      "thumbnail": "https://example.com/dark_thumb.jpg",
-      "url": [
-        "https://example.com/dark1.jpg",
-        "https://example.com/dark2.jpg"
+        "https://i0.wp.com/picjumbo.com/wp-content/uploads/sunset-wallpaper-free-image.jpeg?w=2210&quality=70",
+        "https://i0.wp.com/picjumbo.com/wp-content/uploads/sunset-wallpaper-free-image.jpeg?w=2210&quality=70",
+        "https://i0.wp.com/picjumbo.com/wp-content/uploads/sunset-wallpaper-free-image.jpeg?w=2210&quality=70",
+        "https://i.pinimg.com/736x/02/3d/ce/023dced469c3f94f45f121f91a963b8b.jpg",
+        "https://i.pinimg.com/236x/95/2e/2f/952e2f27503253df5b861979e5eaa867.jpg"
       ]
     },
     {
       "category": "Love",
-      "url": "https://example.com/love_single.jpg"
+      "thumbnail": "https://proreskin9.github.io/server/roated/thumbs/love_main.jpg",
+      "url": [
+        "https://proreskin9.github.io/server/roated/images/love1.jpg",
+        "https://proreskin9.github.io/server/roated/images/love2.jpg",
+        "https://proreskin9.github.io/server/roated/images/love3.jpg",
+        "https://proreskin9.github.io/server/roated/images/love4.jpg",
+        "https://proreskin9.github.io/server/roated/images/love5.jpg"
+      ]
+    },
+    {
+      "category": "Dark",
+      "thumbnail": "https://i.pinimg.com/236x/e2/ed/56/e2ed56d46f8701c2e14e286ce71952b1.jpg",
+      "url": [
+        "https://i.pinimg.com/236x/e2/ed/56/e2ed56d46f8701c2e14e286ce71952b1.jpg",
+        "https://i.pinimg.com/236x/20/a7/db/20a7db6335e7037d4ac8d7a7cccd6eed.jpg",
+        "https://i.pinimg.com/236x/20/a7/db/20a7db6335e7037d4ac8d7a7cccd6eed.jpg"
+      ]
+    },
+    {
+      "category": "Single View",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb1jMrqj3j3lOcqO7e7p0JiBzNPsBtLhrXxQ&s"
     }
   ]
 }
