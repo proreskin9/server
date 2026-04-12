@@ -1,27 +1,38 @@
 {
   "wallpapers": [
-    {
-      "category": "Nature",
-      "thumbnail": "https://example.com/nature_thumb.jpg",
+    {"category": "Nature",
+      "thumbnail": "https://proreskin9.github.io/server/roated/thumbs/nature_main.jpg",
       "url": [
-        "https://example.com/nature1.jpg",
-        "https://example.com/nature2.jpg",
-        "https://example.com/nature3.jpg"
-      ]
-    },
-    {
-      "category": "Dark",
-      "thumbnail": "https://example.com/dark_thumb.jpg",
-      "url": [
-        "https://example.com/dark1.jpg",
-        "https://example.com/dark2.jpg"
+        "https://proreskin9.github.io/server/roated/images/nature1.jpg",
+        "https://proreskin9.github.io/server/roated/images/nature2.jpg",
+        "https://proreskin9.github.io/server/roated/images/nature3.jpg",
+        "https://proreskin9.github.io/server/roated/images/nature4.jpg",
+        "https://proreskin9.github.io/server/roated/images/nature5.jpg"
       ]
     },
     {
       "category": "Love",
-        "https://example.com/nature1.jpg",
-        "https://example.com/nature2.jpg",
-        "https://example.com/nature3.jpg"
+      "thumbnail": "https://proreskin9.github.io/server/roated/thumbs/love_main.jpg",
+      "url": [
+        "https://proreskin9.github.io/server/roated/images/love1.jpg",
+        "https://proreskin9.github.io/server/roated/images/love2.jpg",
+        "https://proreskin9.github.io/server/roated/images/love3.jpg",
+        "https://proreskin9.github.io/server/roated/images/love4.jpg",
+        "https://proreskin9.github.io/server/roated/images/love5.jpg"
+      ]
+    },
+    {
+      "category": "Dark",
+      "thumbnail": "https://proreskin9.github.io/server/roated/thumbs/dark_main.jpg",
+      "url": [
+        "https://proreskin9.github.io/server/roated/images/dark1.jpg",
+        "https://proreskin9.github.io/server/roated/images/dark2.jpg",
+        "https://proreskin9.github.io/server/roated/images/dark3.jpg"
+      ]
+    },
+    {
+      "category": "Single View",
+      "url": "https://proreskin9.github.io/server/roated/images/special_bg.jpg"
     }
   ]
 }
