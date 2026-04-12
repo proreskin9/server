@@ -19,7 +19,9 @@
     },
     {
       "category": "Love",
-      "url": "https://example.com/love_single.jpg"
+        "https://example.com/nature1.jpg",
+        "https://example.com/nature2.jpg",
+        "https://example.com/nature3.jpg"
     }
   ]
 }
