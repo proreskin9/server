@@ -1,10 +1,34 @@
-{  "ad_provider": "admob",
-  "banner_id": "ca-app-pub-3940256099942544/6300978111",
-  "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-  "native_id": "ca-app-pub-3940256099942544/2247696110",
-  "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
-  "fan_banner_id": "YOUR_FAN_BANNER_ID",
-  "fan_interstitial_id": "YOUR_FAN_INTERSTITIAL_ID",
-  "fan_rewarded_id": "YOUR_FAN_REWARDED_ID",
-  "fan_native_id": "YOUR_FAN_NATIVE_ID"
+{
+  "sticker_packs": [
+    {
+      "identifier": "pack1",
+      "name": "Emoji Fun",
+      "publisher": "Sticker Maker",
+      "tray_image_file": "https://cdn-icons-png.flaticon.com/512/2584/2584606.png",
+      "publisher_email": "support@example.com",
+      "publisher_website": "https://example.com",
+      "privacy_policy_website": "https://example.com/privacy",
+      "license_agreement_website": "https://example.com/license",
+      "stickers": [
+        {
+          "image_file": "https://cdn-icons-png.flaticon.com/512/2584/2584606.png",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "https://cdn-icons-png.flaticon.com/512/2584/2584644.png",
+          "emojis": ["😂"]
+        }
+      ]
+    }
+  ],
+  "wallpapers": [
+    {
+      "id": "w1",
+      "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1000",
+      "thumbnail_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=200",
+      "title": "Mountain View",
+      "category": "Nature"
+    }
+  ],
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.your.package.name"
 }
