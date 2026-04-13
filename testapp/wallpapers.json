@@ -151,61 +151,19 @@
     }
   ],
   "wallpapers": [
-        {
-      "id": "w1",
-      "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1000",
-      "thumbnail_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=200",
-      "title": "Mountain View",
-      "category": "Nature"
-    }
-        {
-      "id": "w1",
-      "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1000",
-      "thumbnail_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=200",
-      "title": "Mountain View",
-      "category": "dark"
-    }
-        {
-      "id": "w1",
-      "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1000",
-      "thumbnail_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=200",
-      "title": "Mountain View",
-      "category": "Nature"
-    }
-        {
-      "id": "w1",
-      "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1000",
-      "thumbnail_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=200",
-      "title": "Mountain View",
-      "category": "Nature"
-    }
-        {
-      "id": "w1",
-      "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1000",
-      "thumbnail_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=200",
-      "title": "Mountain View",
-      "category": "dark"
-    }
-        {
-      "id": "w1",
-      "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1000",
-      "thumbnail_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=200",
-      "title": "Mountain View",
-      "category": "Nature"
-    }
-        {
-      "id": "w1",
-      "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1000",
-      "thumbnail_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=200",
-      "title": "Mountain View",
-      "category": "class"
-    }
     {
-      "id": "w1",
-      "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1000",
-      "thumbnail_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=200",
+      "id": "1",
+      "url": "https://example.com/image1.jpg",
+      "thumbnail_url": "https://example.com/thumb1.jpg",
       "title": "Mountain View",
-      "category": "Nature"
+      "category": "Nature"   
+    },
+    {
+      "id": "2",
+      "url": "https://example.com/image2.jpg",
+      "thumbnail_url": "https://example.com/thumb2.jpg",
+      "title": "Red Car",
+      "category": "Cars"     
     }
   ],
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.your.package.name"
