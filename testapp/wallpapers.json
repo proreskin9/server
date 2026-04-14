@@ -38,6 +38,161 @@
         { "image_file": "https://proreskin9.github.io/server/romanticanimated/m21/b20.webp", "emojis": ["😡", "😠"] }
       ]
     },
+    {
+"identifier": "m58",
+"name": "couple 29",
+"publisher": "devlados",
+"tray_image_file": "https://proreskin9.github.io/server/romanticanimated/m58/b7.webp",
+"image_data_version": "1",
+"avoid_cache": false,
+"publisher_email": "",
+"category": "couple💑",
+"publisher_website": "",
+"privacy_policy_website": "",
+"license_agreement_website": "",
+"stickers": [
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m58/b1.webp",
+  "emojis": [
+    "☕",
+    "🙂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m58/b2.webp",
+  "emojis": [
+    "😄",
+    "😀"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m58/b3.webp",
+  "emojis": [
+    "😆",
+    "😂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m58/b4.webp",
+  "emojis": [
+    "😩",
+    "😰"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m58/b5.webp",
+  "emojis": [
+    "😭",
+    "💧"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m58/b6.webp",
+  "emojis": [
+    "😍",
+    "♥"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m58/b7.webp",
+  "emojis": [
+    "💔",
+    "👎"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m58/b8.webp",
+  "emojis": [
+    "😍",
+    "💑"
+  ]
+},
+        {
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m58/b9.webp",
+  "emojis": [
+    "😆",
+    "😂"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m58/b10.webp",
+  "emojis": [
+    "😩",
+    "😰"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m58/b11.webp",
+  "emojis": [
+    "😭",
+    "💧"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m58/b12.webp",
+  "emojis": [
+    "😍",
+    "♥"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m58/b13.webp",
+  "emojis": [
+    "💔",
+    "👎"
+  ]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m58/b14.webp",
+  "emojis": [
+    "😍",
+    "💑"
+  ]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m58/b15.webp",
+"emojis": [
+"😆",
+"😂"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m58/b16.webp",
+"emojis": [
+"😩",
+"😰"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m58/b17.webp",
+"emojis": [
+"😭",
+"💧"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m58/b18.webp",
+"emojis": [
+"😍",
+"♥"
+]
+},
+{
+"image_file": "https://proreskin9.github.io/server/romanticanimated/m58/b19.webp",
+"emojis": [
+"💔",
+"👎"
+]
+},
+{
+  "image_file": "https://proreskin9.github.io/server/romanticanimated/m58/b20.webp",
+  "emojis": [
+    "😡",
+    "😠"
+  ]
+}
+]
+},
    {
       "identifier": "pack2",
       "name": "heart 2",
