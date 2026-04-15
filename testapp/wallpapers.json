@@ -12310,5 +12310,17 @@
     {"url": "https://i.pinimg.com/1200x/6a/9e/6b/6a9e6b1792fedec9c5d53aeb6932cc05.jpg", "title": "Minimal Lines", "category": "Minimal"},
     {"url": "https://i.pinimg.com/736x/63/bb/7b/63bb7b70020c4ffb0b1d979e6a741fef.jpg", "title": "Vintage Car", "category": "Vehicles"},
     {"url": "https://i.pinimg.com/736x/ad/89/49/ad894934a6ced6fb36cc5fd7d7777a0d.jpg", "title": "Neon Night", "category": "Urban"}
-  ]
+  ],
+  "ads_config": {
+    "show_ads": true,
+    "primary_ads": "admob", 
+    "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+    "admob_inter_id": "ca-app-pub-3940256099942544/1033173712",
+    "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+    "admob_reward_id": "ca-app-pub-3940256099942544/5224354917",
+    "fan_banner_id": "YOUR_PLACEMENT_ID",
+    "fan_inter_id": "YOUR_PLACEMENT_ID",
+    "fan_native_id": "YOUR_PLACEMENT_ID",
+    "fan_reward_id": "YOUR_PLACEMENT_ID"
+  }
 }
