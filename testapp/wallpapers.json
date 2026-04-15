@@ -12300,15 +12300,15 @@
     }
   ],
    "wallpapers": [
-    {"url": "https://example.com/image1.jpg", "title": "Mountain View", "category": "Nature"},
-    {"url": "https://example.com/image2.jpg", "title": "Ocean Sunset", "category": "Nature"},
-    {"url": "https://example.com/image3.jpg", "title": "City Lights", "category": "Urban"},
-    {"url": "https://example.com/image4.jpg", "title": "Desert Dunes", "category": "Nature"},
-    {"url": "https://example.com/image5.jpg", "title": "Abstract Colors", "category": "Abstract"},
-    {"url": "https://example.com/image6.jpg", "title": "Space Galaxy", "category": "Space"},
-    {"url": "https://example.com/image7.jpg", "title": "Snowy Forest", "category": "Nature"},
-    {"url": "https://example.com/image8.jpg", "title": "Minimal Lines", "category": "Minimal"},
-    {"url": "https://example.com/image9.jpg", "title": "Vintage Car", "category": "Vehicles"},
-    {"url": "https://example.com/image10.jpg", "title": "Neon Night", "category": "Urban"}
+    {"url": "https://i.pinimg.com/736x/3f/87/ae/3f87aea4996716d3acb0410db81121fb.jpg", "title": "Mountain View", "category": "Nature"},
+    {"url": "https://i.pinimg.com/736x/ca/7d/ea/ca7dea649417c17032067f18e8bcaa9e.jpg", "title": "Ocean Sunset", "category": "Nature"},
+    {"url": "https://i.pinimg.com/736x/28/84/0e/28840eba387c77696734d90420d339fc.jpg", "title": "City Lights", "category": "Urban"},
+    {"url": "https://i.pinimg.com/736x/a0/1f/36/a01f369ec0a2cf2fa70169e96f457e91.jpg", "title": "Desert Dunes", "category": "Nature"},
+    {"url": "https://i.pinimg.com/736x/f8/35/d0/f835d0980909f6ad7ac9292724142635.jpg", "title": "Abstract Colors", "category": "Abstract"},
+    {"url": "https://i.pinimg.com/1200x/53/58/52/535852e730af26264f8d8dc0d6adf90c.jpg", "title": "Space Galaxy", "category": "Space"},
+    {"url": "https://i.pinimg.com/736x/cf/78/7a/cf787ab29606cbffd3c7c39fbbc82215.jpg", "title": "Snowy Forest", "category": "Nature"},
+    {"url": "https://i.pinimg.com/1200x/6a/9e/6b/6a9e6b1792fedec9c5d53aeb6932cc05.jpg", "title": "Minimal Lines", "category": "Minimal"},
+    {"url": "https://i.pinimg.com/736x/63/bb/7b/63bb7b70020c4ffb0b1d979e6a741fef.jpg", "title": "Vintage Car", "category": "Vehicles"},
+    {"url": "https://i.pinimg.com/736x/ad/89/49/ad894934a6ced6fb36cc5fd7d7777a0d.jpg", "title": "Neon Night", "category": "Urban"}
   ]
 }
