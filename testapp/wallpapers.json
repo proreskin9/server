@@ -12300,15 +12300,25 @@
     }
   ],
    "wallpapers": [
-    {"url": "https://i.pinimg.com/736x/3f/87/ae/3f87aea4996716d3acb0410db81121fb.jpg", "title": "Mountain View", "category": "Nature"},
-    {"url": "https://i.pinimg.com/736x/ca/7d/ea/ca7dea649417c17032067f18e8bcaa9e.jpg", "title": "Ocean Sunset", "category": "Nature"},
-    {"url": "https://i.pinimg.com/736x/28/84/0e/28840eba387c77696734d90420d339fc.jpg", "title": "City Lights", "category": "Urban"},
-    {"url": "https://i.pinimg.com/736x/a0/1f/36/a01f369ec0a2cf2fa70169e96f457e91.jpg", "title": "Desert Dunes", "category": "Nature"},
-    {"url": "https://i.pinimg.com/736x/f8/35/d0/f835d0980909f6ad7ac9292724142635.jpg", "title": "Abstract Colors", "category": "Abstract"},
-    {"url": "https://i.pinimg.com/1200x/53/58/52/535852e730af26264f8d8dc0d6adf90c.jpg", "title": "Space Galaxy", "category": "Space"},
-    {"url": "https://i.pinimg.com/736x/cf/78/7a/cf787ab29606cbffd3c7c39fbbc82215.jpg", "title": "Snowy Forest", "category": "Nature"},
-    {"url": "https://i.pinimg.com/1200x/6a/9e/6b/6a9e6b1792fedec9c5d53aeb6932cc05.jpg", "title": "Minimal Lines", "category": "Minimal"},
-    {"url": "https://i.pinimg.com/736x/63/bb/7b/63bb7b70020c4ffb0b1d979e6a741fef.jpg", "title": "Vintage Car", "category": "Vehicles"},
+    {"url": "https://i.pinimg.com/736x/14/0f/eb/140feb25b82afd8a6768a7e67668cf3b.jpg", "title": "Couple Love", "category": "couple"},
+    {"url": "https://i.pinimg.com/736x/fe/3d/db/fe3ddb848cec9b44338ab91e916292fd.jpg", "title": "Couple Love", "category": "couple"},
+    {"url": "https://i.pinimg.com/736x/d0/40/46/d040464e651195a6ac1e18ba6bea92e0.jpg", "title": "Couple Love", "category": "couple"},
+    {"url": "https://i.pinimg.com/736x/12/9a/9c/129a9c04ee139bc5bceee6b2a94bcd42.jpg", "title": "Couple Love", "category": "couple"},
+    {"url": "https://i.pinimg.com/736x/ec/4a/f9/ec4af910488daa21f285f1e8a5633cde.jpg", "title": "Couple Love", "category": "couple"},
+    {"url": "https://i.pinimg.com/1200x/0a/04/75/0a0475d19c47be94834ea0504b5c0c7d.jpg", "title": "Couple Love", "category": "couple"},
+    {"url": "https://i.pinimg.com/736x/c0/ad/61/c0ad618914e82841cb3631b780d54068.jpg", "title": "Couple Love", "category": "couple"},
+    {"url": "https://i.pinimg.com/736x/70/9b/96/709b9668a6f5efa93562e06820a3a34b.jpg", "title": "Couple Love", "category": "couple"},
+    {"url": "https://i.pinimg.com/1200x/d6/df/2e/d6df2e0cfe3953bdefae7080ee73e49f.jpg", "title": "Couple Love", "category": "couple"},
+    {"url": "https://i.pinimg.com/736x/e0/d0/79/e0d0792ea2071cb3b820532351fcb2fb.jpg", "title": "Couple Love", "category": "couple"},
+    {"url": "https://i.pinimg.com/1200x/f8/27/da/f827dad642484aa819b0fe9291dc2da4.jpg", "title": "Couple Love", "category": "couple"},
+    {"url": "https://i.pinimg.com/736x/8c/ae/63/8cae632366462e5d18875e65732ca0d9.jpg", "title": "Couple Love", "category": "couple"},
+    {"url": "https://i.pinimg.com/1200x/03/e2/76/03e2762129d03d53d242af207bc2dae5.jpg", "title": "Couple Love", "category": "couple"},
+    {"url": "https://i.pinimg.com/736x/76/34/56/76345698b014867598e56f1457ffc036.jpg", "title": "Couple Love", "category": "couple"},
+    {"url": "https://i.pinimg.com/736x/06/e9/e4/06e9e410aeebdc9867656c53a90d1ad8.jpg", "title": "Couple Love", "category": "couple"},
+    {"url": "https://i.pinimg.com/1200x/93/5e/68/935e681d3593586b87f608176b2b5180.jpg", "title": "Couple Love", "category": "couple"},
+    {"url": "https://i.pinimg.com/736x/1f/4c/5b/1f4c5b89cf492d304340988835065c78.jpg", "title": "Couple Love", "category": "couple"},
+    {"url": "https://i.pinimg.com/1200x/d6/20/bb/d620bbcecc6ea9a5a2c749c2b1fe7ff7.jpg", "title": "Couple Love", "category": "couple"},
+     
     {"url": "https://i.pinimg.com/736x/ad/89/49/ad894934a6ced6fb36cc5fd7d7777a0d.jpg", "title": "Neon Night", "category": "Urban"}
   ]
 }
