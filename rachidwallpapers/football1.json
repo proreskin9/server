@@ -1,34 +1,7 @@
 {
   "wallpapers": [
-    {
-      "url": "https://i.pinimg.com/736x/14/0f/eb/140feb25b82afd8a6768a7e67668cf3b.jpg",
-      "title": "Couple Love",
-      "category": "couple"
-    },
-    {
-      "url": "https://i.pinimg.com/736x/fe/3d/db/fe3ddb848cec9b44338ab91e916292fd.jpg",
-      "title": "Couple Love",
-      "category": "couple"
-    },
-    {
-      "url": "https://i.pinimg.com/736x/ad/89/49/ad894934a6ced6fb36cc5fd7d7777a0d.jpg",
-      "title": "Neon Night",
-      "category": "Urban"
-    },
-    {
-      "url": "https://i.pinimg.com/736x/42/61/51/426151d2a0422f2412fcca897e233ae8.jpg",
-      "title": "Mountain View",
-      "category": "Nature"
-    },
-    {
-      "url": "https://i.pinimg.com/736x/42/61/51/426151d2a0422f2412fcca897e233ae8.jpg",
-      "title": "Abstract Waves",
-      "category": "Abstract"
-    },
-    {
-      "url": "https://i.pinimg.com/736x/42/61/51/426151d2a0422f2412fcca897e233ae8.jpg",
-      "title": "Cyber City",
-      "category": "Urban"
-    }
+    {"url": "xxxxxxxx", "title": "xxxxx", "category": "xxxx"},
+    {"url": "xxxxxxxx", "title": "xxxxx", "category": "xxxx"},
+    {"url": "xxxxxxxxx", "title": "xxxxx", "category": "xxxxx"}
   ]
 }
