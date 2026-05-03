@@ -2,161 +2,36 @@
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.nailsart.salonnail.nailssalon",
   "ios_app_store_link": "",
   "sticker_packs": [
-   {
-"identifier": "m62",
-"name": "couple 33",
-"publisher": "devlados",
-"tray_image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b7.webp",
+    {
+"identifier": "R1",
+"name": "bom dia",
+"publisher": "HAROUN",
+"tray_image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R1/b7.webp",
 "image_data_version": "1",
 "avoid_cache": false,
 "publisher_email": "",
-"category": "couple💑",
+"category": "BOM DIA",
 "publisher_website": "",
 "privacy_policy_website": "",
 "license_agreement_website": "",
 "stickers": [
-{
-  "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b1.webp",
-  "emojis": [
-    "☕",
-    "🙂"
-  ]
-},
-{
-  "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b2.webp",
-  "emojis": [
-    "😄",
-    "😀"
-  ]
-},
-{
-  "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b3.webp",
-  "emojis": [
-    "😆",
-    "😂"
-  ]
-},
-{
-  "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b4.webp",
-  "emojis": [
-    "😩",
-    "😰"
-  ]
-},
-{
-  "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b5.webp",
-  "emojis": [
-    "😭",
-    "💧"
-  ]
-},
-{
-  "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b6.webp",
-  "emojis": [
-    "😍",
-    "♥"
-  ]
-},
-{
-  "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b7.webp",
-  "emojis": [
-    "💔",
-    "👎"
-  ]
-},
-{
-  "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b8.webp",
-  "emojis": [
-    "😍",
-    "💑"
-  ]
-},
-        {
-  "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b9.webp",
-  "emojis": [
-    "😆",
-    "😂"
-  ]
-},
-{
-  "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b10.webp",
-  "emojis": [
-    "😩",
-    "😰"
-  ]
-},
-{
-  "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b11.webp",
-  "emojis": [
-    "😭",
-    "💧"
-  ]
-},
-{
-  "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b12.webp",
-  "emojis": [
-    "😍",
-    "♥"
-  ]
-},
-{
-  "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b13.webp",
-  "emojis": [
-    "💔",
-    "👎"
-  ]
-},
-{
-  "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b14.webp",
-  "emojis": [
-    "😍",
-    "💑"
-  ]
-},
-{
-"image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b15.webp",
-"emojis": [
-"😆",
-"😂"
-]
-},
-{
-"image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b16.webp",
-"emojis": [
-"😩",
-"😰"
-]
-},
-{
-"image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b17.webp",
-"emojis": [
-"😭",
-"💧"
-]
-},
-{
-"image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b18.webp",
-"emojis": [
-"😍",
-"♥"
-]
-},
-{
-"image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b19.webp",
-"emojis": [
-"💔",
-"👎"
-]
-},
-{
-  "image_file": "https://proreskin9.github.io/server/romanticanimated/m62/b20.webp",
-  "emojis": [
-    "😡",
-    "😠"
-  ]
-}
-]
-},
+    {"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R1/1.webp","emojis": ["☕","🙂"] },
+    {"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R1/2.webp","emojis": ["☕","🙂"] },
+    {"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R1/3.webp","emojis": ["☕","🙂"] },
+    {"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R1/4.webp","emojis": ["☕","🙂"] },
+    {"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R1/5.webp","emojis": ["☕","🙂"] },
+    {"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R1/6.webp","emojis": ["☕","🙂"] },
+    {"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R1/7.webp","emojis": ["☕","🙂"] },
+    {"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R1/8.webp","emojis": ["☕","🙂"] },
+    {"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R1/9.webp","emojis": ["☕","🙂"] },
+    {"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R1/10.webp","emojis": ["☕","🙂"] },
+    {"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R1/11.webp","emojis": ["☕","🙂"] },
+    {"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R1/12.webp","emojis": ["☕","🙂"] },
+    {"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R1/13.webp","emojis": ["☕","🙂"] },
+    {"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R1/14.webp","emojis": ["☕","🙂"] },
+    {"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R1/15.webp","emojis": ["☕","🙂"] 
+    }
+]},
 
     {
       "identifier": "3",
