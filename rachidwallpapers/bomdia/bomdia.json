@@ -397,7 +397,7 @@
 {"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R14//14.webp","emojis": ["☕", "🙂"]},
 {"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R14//15.webp","emojis": ["😡", "😠" ]}]},
 {
-"identifier": "R14",
+"identifier": "R15",
 "name": "te amo",
 "publisher": "HAROUN",
 "tray_image_file": "https://proreskin9.github.io/server//rachidwallpapers/bomdia/R15//7.webp",
@@ -425,129 +425,35 @@
 {"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R15//14.webp","emojis": ["☕", "🙂"]},
 {"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R15//15.webp","emojis": ["😡", "😠" ]}]},
 
+{
+"identifier": "R16",
+"name": "BOM DIA GIF",
+"publisher": "HAROUN",
+"tray_image_file": "https://proreskin9.github.io/server//rachidwallpapers/bomdia/R15//7.webp",
+"image_data_version": "1",
+"avoid_cache": false,
+"publisher_email": "",
+"category": "BOM DIA",
+"publisher_website": "",
+"privacy_policy_website": "",
+"license_agreement_website": "",
+"stickers": [
+{"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R15//1.webp","emojis": ["☕", "🙂"]},
+{"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R15//2.webp","emojis": ["☕", "🙂"]},
+{"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R15//3.webp","emojis": ["☕", "🙂"]},
+{"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R15//4.webp","emojis": ["☕", "🙂"]},
+{"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R15//5.webp","emojis": ["☕", "🙂"]},
+{"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R15//6.webp","emojis": ["☕", "🙂"]},
+{"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R15//7.webp","emojis": ["☕", "🙂"]},
+{"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R15//8.webp","emojis": ["☕", "🙂"]},
+{"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R15//9.webp","emojis": ["☕", "🙂"]},
+{"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R15//10.webp","emojis": ["☕", "🙂"]},
+{"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R15//11.webp","emojis": ["☕", "🙂"]},
+{"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R15//12.webp","emojis": ["☕", "🙂"]},
+{"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R15//13.webp","emojis": ["☕", "🙂"]},
+{"image_file": "https://proreskin9.github.io/server/rachidwallpapers/bomdia/R15//14.webp","emojis": ["☕", "🙂"]},
+{"image_file": "https://proreskin9.github.io/server/romanticanimated/3/c15.webp","emojis": ["🔋","😵"]}]}],
 
-    
-    {
-      "identifier": "3",
-      "name": "flower3",
-      "publisher": "HAROUN",
-      "tray_image_file": "https://proreskin9.github.io/server/romanticanimated/3/c6.webp",
-      "image_data_version": "1",
-      "avoid_cache": false,
-      "publisher_email": "",
-      "category": "🌹flowers🌸",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "https://proreskin9.github.io/server/romanticanimated/3/c1.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
-        },
-        {
-          "image_file": "https://proreskin9.github.io/server/romanticanimated/3/c2.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
-        },
-        {
-          "image_file": "https://proreskin9.github.io/server/romanticanimated/3/c3.webp",
-          "emojis": [
-            "😆",
-            "😂"
-          ]
-        },
-        {
-          "image_file": "https://proreskin9.github.io/server/romanticanimated/3/c4.webp",
-          "emojis": [
-            "😩",
-            "😰"
-          ]
-        },
-        {
-          "image_file": "https://proreskin9.github.io/server/romanticanimated/3/c5.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
-        },
-        {
-          "image_file": "https://proreskin9.github.io/server/romanticanimated/3/c6.webp",
-          "emojis": [
-            "😆",
-            "😂"
-          ]
-        },
-        {
-          "image_file": "https://proreskin9.github.io/server/romanticanimated/3/c7.webp",
-          "emojis": [
-            "😩",
-            "😰"
-          ]
-        },
-        {
-          "image_file": "https://proreskin9.github.io/server/romanticanimated/3/c8.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
-        },
-        {
-          "image_file": "https://proreskin9.github.io/server/romanticanimated/3/c9.webp",
-          "emojis": [
-            "😆",
-            "😂"
-          ]
-        },
-        {
-          "image_file": "https://proreskin9.github.io/server/romanticanimated/3/c10.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
-        },
-        {
-          "image_file": "https://proreskin9.github.io/server/romanticanimated/3/c11.webp",
-          "emojis": [
-            "😆",
-            "😂"
-          ]
-        },
-        {
-          "image_file": "https://proreskin9.github.io/server/romanticanimated/3/c12.webp",
-          "emojis": [
-            "😩",
-            "😰"
-          ]
-        },
-        {
-          "image_file": "https://proreskin9.github.io/server/romanticanimated/3/c13.webp",
-          "emojis": [
-            "😭",
-            "💧"
-          ]
-        },
-            {
-          "image_file": "https://proreskin9.github.io/server/romanticanimated/3/c14.webp",
-          "emojis": [
-            "😭",
-            "💧"
-          ]
-        },
-        {
-          "image_file": "https://proreskin9.github.io/server/romanticanimated/3/c15.webp",
-          "emojis": [
-            "🔋",
-            "😵"
-          ]
-        }
-      ]
-    }
-  ],
    "wallpapers": [
 {"url": "https://i.pinimg.com/736x/0c/b4/8d/0cb48d206f67555548a02a0403955ea5.jpg", "title": "Lamine Yamal", "category": "Lamine Yamal"},
 {"url": "https://i.pinimg.com/736x/04/33/4b/04334be3c78aa0f8650da69a21df28ed.jpg", "title": "Kylian Mbappé", "category": "Kylian Mbappé"},
