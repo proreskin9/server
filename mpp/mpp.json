@@ -1,5 +1,5 @@
 {
-  "provider": "admob",
+  "provider": "facebook",
   "admob": {
     "banner": "ca-app-pub-3940256099942544/6300978111",
     "interstitial": "ca-app-pub-394025609992544/1033173712",
